@@ -53,4 +53,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
