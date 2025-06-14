@@ -1,8 +1,8 @@
 class Solution {
 public:
-    int minMaxDifference(int num) {
+    int minMaxDifference(int n) {
         vector<int>v;
-        int n=num;
+        // int n=num;
       while(n>0){
        int r=n%10;
        v.push_back(r);
