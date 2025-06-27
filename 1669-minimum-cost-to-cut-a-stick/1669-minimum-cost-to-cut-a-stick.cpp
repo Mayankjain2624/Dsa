@@ -1,7 +1,7 @@
 class Solution {
 public:
     int solve(vector<int>& cuts, int i, int j, vector<vector<int>>& dp) {
-        if (i + 1 == j) return 0; // no cut between
+        if (i + 1 == j) return 0; 
         if (dp[i][j] != -1) return dp[i][j];
         
         int mini = INT_MAX;
