@@ -5,16 +5,13 @@ public:
         long long int cv = 0;
         for (int i = n - 1; i >= max(n - 32, 0); i--) {
             if (s[i] == '1')
-                cv += pow(2, n - 1 - i);
+                cv += (1LL << (n - i - 1));
         }
-        cout << cv << endl;
-        // return cv;
         int rc = 0;
         for (int i = 0; i < n - 32; i++) {
             if (s[i] == '1')
                 rc++;
         }
-        cout << rc << endl;
         int start = max(0, n - 32);
         for (int i = start; i < n; i++) {
             if (cv <= k)
