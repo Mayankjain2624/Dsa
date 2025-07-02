@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/0713-subarray-product-less-than-k) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Mayankjain2624/Dsa/tree/master/3618-find-the-original-typed-string-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Two Pointers
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3617-find-the-original-typed-string-i](https://github.com/Mayankjain2624/Dsa/tree/master/3617-find-the-original-typed-string-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Mayankjain2624/Dsa/tree/master/3618-find-the-original-typed-string-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-cherry-pickup-ii](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/1559-cherry-pickup-ii) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Mayankjain2624/Dsa/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Mayankjain2624/Dsa/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Mayankjain2624/Dsa/tree/master/3618-find-the-original-typed-string-ii) |
 ## Memoization
 |  |
 | ------- |
