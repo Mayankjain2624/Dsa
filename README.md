@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Mayankjain2624/Dsa/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/0120-triangle) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Mayankjain2624/Dsa/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/0455-assign-cookies) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Mayankjain2624/Dsa/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/0064-minimum-path-sum) |
