@@ -16,7 +16,6 @@ public:
             }
             int maxi=currentSum;
             while(r<=n){
-            cout<<maxi<<endl;
                 currentSum-=free[l];
                 currentSum+=free[r];
                 maxi=max(maxi,currentSum);
