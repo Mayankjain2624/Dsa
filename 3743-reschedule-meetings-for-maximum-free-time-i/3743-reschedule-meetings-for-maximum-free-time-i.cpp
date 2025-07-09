@@ -8,14 +8,6 @@ public:
         for(int i=1;i<n;i++){
            free[i]=startTime[i]-endTime[i-1];
         }
-        for(auto &it:free){
-            cout<<it<<endl;
-        }
-        if(free.size()==0)
-        return 0;
-        else if(free.size()==1)
-        return free[0];
-        else{
             int l=0;
             int r=min(k+1,n+1);
             int currentSum=0;
@@ -32,6 +24,5 @@ public:
                 l++;
             }
             return maxi;
-        }
     }
 };
