@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/0070-climbing-stairs) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Mayankjain2624/Dsa/tree/master/0795-k-th-symbol-in-grammar) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mayankjain2624/Dsa/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2448-count-number-of-bad-pairs](https://github.com/Mayankjain2624/Dsa/tree/master/2448-count-number-of-bad-pairs) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -249,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-reachable-nodes-in-subdivided-graph](https://github.com/Mayankjain2624/Dsa/tree/master/0918-reachable-nodes-in-subdivided-graph) |
+## Linked List
+|  |
+| ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mayankjain2624/Dsa/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
