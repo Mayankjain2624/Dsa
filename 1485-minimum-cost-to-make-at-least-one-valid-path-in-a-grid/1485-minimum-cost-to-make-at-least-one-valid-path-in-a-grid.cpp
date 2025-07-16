@@ -12,20 +12,18 @@ vector<int>dy={1,-1,0,0};
         int m = grid[0].size();
         int cost = 0;
        priority_queue<tuple<int, int, int>, vector<tuple<int, int, int>>, greater<tuple<int, int, int>>> pq;
-
         pq.push(make_tuple(0,0,0));
-        vector<vector<int>>vis(n,vector<int>(m,0));
+        vector<vector<bool>>vis(n,vector<bool>(m,0));
         while(!pq.empty()){
             int cost=get<0>(pq.top());
             int i=get<1>(pq.top());
             int j=get<2>(pq.top());
-            // cout<<i<<j<<endl;
             pq.pop();
             if(i==n-1 && j==m-1)
             return cost;
             if(vis[i][j])
             continue;
-            vis[i][j]=1;
+            vis[i][j]=true;
             for(int k=0;k<4;k++){
                 int ni=i+dx[k];
                 int nj=j+dy[k];
