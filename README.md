@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Mayankjain2624/Dsa/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Mayankjain2624/Dsa/tree/master/2171-second-minimum-time-to-reach-destination) |
+| [2321-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Mayankjain2624/Dsa/tree/master/2321-minimum-weighted-subgraph-with-the-required-paths) |
 ## Sliding Window
 |  |
 | ------- |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-reachable-nodes-in-subdivided-graph](https://github.com/Mayankjain2624/Dsa/tree/master/0918-reachable-nodes-in-subdivided-graph) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Mayankjain2624/Dsa/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Mayankjain2624/Dsa/tree/master/2171-second-minimum-time-to-reach-destination) |
+| [2321-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Mayankjain2624/Dsa/tree/master/2321-minimum-weighted-subgraph-with-the-required-paths) |
 ## Linked List
 |  |
 | ------- |
