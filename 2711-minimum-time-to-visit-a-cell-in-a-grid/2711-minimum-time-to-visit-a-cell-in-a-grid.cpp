@@ -16,7 +16,7 @@ public:
                        greater<pair<int, int>>>
             pq;
         pq.push({grid[0][0], 0});
-        vector<int> dist(n * m + m + 1, 1e9);
+        vector<int> dist(n * m + m , 1e9);
         while (!pq.empty()) {
             int time = pq.top().first;
             int x = pq.top().second / m;
