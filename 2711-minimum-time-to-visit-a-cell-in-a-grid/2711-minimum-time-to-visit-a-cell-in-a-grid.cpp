@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<int> dx = {1, -1, 0, 0};
-    vector<int> dy = {0, 0, -1, 1};
+    vector<int> dy = {0, 0, 1, -1};
     bool isvalid(int x, int y, int n, int m) {
         if (x >= 0 && x < n && y >= 0 && y < m)
             return true;
@@ -10,7 +10,7 @@ public:
     int minimumTime(vector<vector<int>>& grid) {
         int n = grid.size();
         int m = grid[0].size();
-        if (grid[1][0] > 1 && grid[0][1] > 1)
+ if (n > 1 && m > 1 && grid[1][0] > 1 && grid[0][1] > 1)
             return -1;
         priority_queue<pair<int, int>, vector<pair<int, int>>,
                        greater<pair<int, int>>>
@@ -22,6 +22,10 @@ public:
             int x = pq.top().second / m;
             int y = pq.top().second % m;
             pq.pop();
+            
+            if (x == n - 1 && y == m - 1)
+                return time;
+
             for (int i = 0; i < 4; i++) {
                 int nx = x + dx[i];
                 int ny = y + dy[i];
@@ -31,7 +35,7 @@ public:
                         nt = time + 1;
                     else {
                         int r = grid[nx][ny] - 1 - time;
-                        nt = ceil(r * 1.0 / 2) * 2 + time + 1;
+                        nt = ((r+1)/2) * 2 + time + 1;
                     }
                     if (nt < dist[nx * m + ny]) {
                         dist[nx * m + ny] = nt;
