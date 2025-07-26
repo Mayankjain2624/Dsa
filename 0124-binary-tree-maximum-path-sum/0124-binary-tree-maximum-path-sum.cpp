@@ -18,7 +18,6 @@ public:
         int l = max(0,depth(node->left));
         int r = max(0,depth(node->right));
         maxi = max(maxi, node->val+l + r);
-        cout<<maxi<<endl;
         return node->val + max(l, r);
     }
     int maxPathSum(TreeNode* root) {
