@@ -14,7 +14,7 @@ class Solution {
 public:
     bool isSymmetric(TreeNode* root) {
         // vector<vector<int>>ans;
-        vector<int> level, lc;
+        vector<int> level;
         if (root == nullptr)
             return true;
         queue<TreeNode*> q;
@@ -32,12 +32,11 @@ public:
                     level.push_back(node->val);
                 }
             }
-            lc = level;
-            reverse(lc.begin(), lc.end());
-            if (lc != level)
-                return false;
+            for (int i = 0; i < level.size() / 2; i++) {
+                if (level[i] != level[level.size() - 1 - i])
+                    return false;
+            }
             level.clear();
-            lc.clear();
         }
         return true;
     }
