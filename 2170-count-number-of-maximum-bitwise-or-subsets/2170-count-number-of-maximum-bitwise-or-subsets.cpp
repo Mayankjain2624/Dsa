@@ -1,6 +1,8 @@
 class Solution {
 public:
     int maxp = 0;
+    unordered_map<int, unordered_map<int, int>> dp;
+
     int f(vector<int>& nums, int i, int x) {
         if (i == nums.size())
         {
@@ -9,9 +11,11 @@ public:
             else
             return 0;
         }
+        if(dp[i].count(x)>0)
+        return dp[i][x];
            int pick = f(nums, i + 1, x | nums[i]);
            int notpick = f(nums, i + 1, x);
-        return pick + notpick;
+        return dp[i][x]=pick + notpick;
     }
     int countMaxOrSubsets(vector<int>& nums) {
         for (int i : nums) {
