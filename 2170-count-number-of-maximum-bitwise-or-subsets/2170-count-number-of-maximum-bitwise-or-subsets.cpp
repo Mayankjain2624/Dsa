@@ -17,7 +17,6 @@ public:
         for (int i : nums) {
             maxp = maxp | i;
         }
-        cout<<maxp<<endl;
         return f(nums, 0, 0);
     }
 };
