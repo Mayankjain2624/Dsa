@@ -13,10 +13,7 @@
 class Solution {
 public:
     bool isSymmetric(TreeNode* root) {
-        // vector<vector<int>>ans;
         vector<int> level;
-        if (root == nullptr)
-            return true;
         queue<TreeNode*> q;
         q.push(root);
         while (!q.empty()) {
