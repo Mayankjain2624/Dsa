@@ -10,7 +10,7 @@
 class Solution {
 public:
 vector<int>ans;
-    void solve(int x,int d,vector<vector<int>>&adj,int k,vector<bool>&vis){
+    void solve(int x,int d,unordered_map<int,vector<int>>&adj,int k,unordered_map<int,bool>&vis){
        if(vis[x])
        return;
        vis[x]=true;
@@ -24,7 +24,7 @@ vector<int>ans;
        }
     }
     vector<int> distanceK(TreeNode* root, TreeNode* target, int k) {
-        vector<vector<int>>adj(500);
+        unordered_map<int,vector<int>>adj;
         queue<TreeNode*>q;
         if(root!=nullptr)
         q.push(root);
@@ -44,7 +44,7 @@ vector<int>ans;
             q.push(node->right);
             }
         }
-        vector<bool>vis(500,false);
+        unordered_map<int,bool>vis;
        solve(target->val,0,adj,k,vis);
        return ans;
     }
