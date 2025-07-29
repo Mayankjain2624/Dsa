@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Mayankjain2624/Dsa/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mayankjain2624/Dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Mayankjain2624/Dsa/tree/master/0199-binary-tree-right-side-view) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Mayankjain2624/Dsa/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Mayankjain2624/Dsa/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Mayankjain2624/Dsa/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Mayankjain2624/Dsa/tree/master/0594-longest-harmonious-subsequence) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Mayankjain2624/Dsa/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Mayankjain2624/Dsa/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Mayankjain2624/Dsa/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Mayankjain2624/Dsa/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mayankjain2624/Dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/Mayankjain2624/Dsa/tree/master/0543-diameter-of-binary-tree) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Mayankjain2624/Dsa/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Mayankjain2624/Dsa/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Mayankjain2624/Dsa/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Trie
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Mayankjain2624/Dsa/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mayankjain2624/Dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Mayankjain2624/Dsa/tree/master/0543-diameter-of-binary-tree) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Mayankjain2624/Dsa/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Mayankjain2624/Dsa/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -357,5 +361,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Mayankjain2624/Dsa/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mayankjain2624/Dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Mayankjain2624/Dsa/tree/master/0543-diameter-of-binary-tree) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Mayankjain2624/Dsa/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Mayankjain2624/Dsa/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
