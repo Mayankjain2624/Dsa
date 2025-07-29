@@ -10,10 +10,10 @@
 class Solution {
 public:
 vector<int>ans;
-    void solve(int x,int d,vector<vector<int>>&adj,int k,vector<int>&vis){
+    void solve(int x,int d,vector<vector<int>>&adj,int k,vector<bool>&vis){
        if(vis[x])
        return;
-       vis[x]=1;
+       vis[x]=true;
        if(d==k)
        {
         ans.push_back(x);
@@ -44,16 +44,8 @@ vector<int>ans;
             q.push(node->right);
             }
         }
-        vector<int>vis(500);
-        for(auto &it:adj){
-            for(int i:it){
-                cout<<i<<" ";
-            }
-            cout<<endl;
-        }
-        // [target->val]=1;
+        vector<bool>vis(500,false);
        solve(target->val,0,adj,k,vis);
-    //    cout<<ans<<endl;
        return ans;
     }
 };
