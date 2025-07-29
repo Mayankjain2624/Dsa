@@ -25,12 +25,11 @@ public:
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
        vector<TreeNode*>temp;
        solve(root,p,q,temp);
-        for(int i=pv.size()-1;i>=0;i--){
-            for(int j=qv.size()-1;j>=0;j--){
-                if(pv[i]==qv[j])
-                return pv[i];
-            }
-        }
+        int i = 0;
+while (i < pv.size() && i < qv.size() && pv[i] == qv[i]) {
+    ++i;
+}
+return pv[i - 1];
         return root;
     }
 };
