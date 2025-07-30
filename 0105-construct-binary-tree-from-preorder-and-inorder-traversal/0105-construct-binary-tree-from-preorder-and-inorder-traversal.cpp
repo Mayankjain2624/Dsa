@@ -21,8 +21,8 @@ public:
         return root;
     }
     TreeNode* buildTree(vector<int>& preorder,int ps,int pe, vector<int>& inorder,int is,int ie,map<int,int>&mp){
-        if(ps>pe || is>ie)
-        return nullptr;
+       if (is > ie || ps > pe)
+    return nullptr;
         TreeNode* root=new TreeNode(preorder[ps]);
         int inroot=mp[root->val];
         int numsleft=inroot-is;
