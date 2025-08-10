@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/Mayankjain2624/Dsa/tree/master/0900-reordered-power-of-2) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Mayankjain2624/Dsa/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mayankjain2624/Dsa/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Mayankjain2624/Dsa/tree/master/0231-power-of-two) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Mayankjain2624/Dsa/tree/master/0795-k-th-symbol-in-grammar) |
 | [0826-soup-servings](https://github.com/Mayankjain2624/Dsa/tree/master/0826-soup-servings) |
+| [0900-reordered-power-of-2](https://github.com/Mayankjain2624/Dsa/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mayankjain2624/Dsa/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2448-count-number-of-bad-pairs](https://github.com/Mayankjain2624/Dsa/tree/master/2448-count-number-of-bad-pairs) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Mayankjain2624/Dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0594-longest-harmonious-subsequence](https://github.com/Mayankjain2624/Dsa/tree/master/0594-longest-harmonious-subsequence) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Mayankjain2624/Dsa/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0900-reordered-power-of-2](https://github.com/Mayankjain2624/Dsa/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Mayankjain2624/Dsa/tree/master/0940-fruit-into-baskets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Mayankjain2624/Dsa/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Mayankjain2624/Dsa/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Mayankjain2624/Dsa/tree/master/0594-longest-harmonious-subsequence) |
+| [0900-reordered-power-of-2](https://github.com/Mayankjain2624/Dsa/tree/master/0900-reordered-power-of-2) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Mayankjain2624/Dsa/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2448-count-number-of-bad-pairs](https://github.com/Mayankjain2624/Dsa/tree/master/2448-count-number-of-bad-pairs) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -315,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Mayankjain2624/Dsa/tree/master/0594-longest-harmonious-subsequence) |
+| [0900-reordered-power-of-2](https://github.com/Mayankjain2624/Dsa/tree/master/0900-reordered-power-of-2) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Mayankjain2624/Dsa/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Mayankjain2624/Dsa/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Mayankjain2624/Dsa/tree/master/1669-minimum-cost-to-cut-a-stick) |
