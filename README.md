@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/Mayankjain2624/Dsa/tree/master/2448-count-number-of-bad-pairs) |
 | [2479-meeting-rooms-iii](https://github.com/Mayankjain2624/Dsa/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Mayankjain2624/Dsa/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2529-range-product-queries-of-powers](https://github.com/Mayankjain2624/Dsa/tree/master/2529-range-product-queries-of-powers) |
 | [2689-rearranging-fruits](https://github.com/Mayankjain2624/Dsa/tree/master/2689-rearranging-fruits) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Mayankjain2624/Dsa/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Mayankjain2624/Dsa/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/0713-subarray-product-less-than-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Mayankjain2624/Dsa/tree/master/1016-subarray-sums-divisible-by-k) |
+| [2529-range-product-queries-of-powers](https://github.com/Mayankjain2624/Dsa/tree/master/2529-range-product-queries-of-powers) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Mayankjain2624/Dsa/tree/master/3618-find-the-original-typed-string-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Two Pointers
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Mayankjain2624/Dsa/tree/master/0231-power-of-two) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Mayankjain2624/Dsa/tree/master/0795-k-th-symbol-in-grammar) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mayankjain2624/Dsa/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2529-range-product-queries-of-powers](https://github.com/Mayankjain2624/Dsa/tree/master/2529-range-product-queries-of-powers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mayankjain2624/Dsa/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |
