@@ -11,32 +11,31 @@
  */
 class Solution {
 public:
-   void inOrder(TreeNode* root,vector<int>&inorder){
-    stack<TreeNode*>st;
+bool inOrder(TreeNode* root){
     TreeNode* node=root;
-    while(node!=nullptr ||  !st.empty()){
+      stack<TreeNode*>st;
+      bool hasprev=false;
+      int prev=-1;
+      while(node!=nullptr || !st.empty())
+      {
         while(node!=nullptr)
         {
             st.push(node);
             node=node->left;
         }
         node=st.top();
+        if(hasprev && node->val<=prev)
+        return false;
+        hasprev=true;
+        prev=node->val;
         st.pop();
-        inorder.push_back(node->val);
         node=node->right;
-    }
-   }
+      }
+      return true;
+}
     bool isValidBST(TreeNode* root) {
-        vector<int>inorder,ic;
-        inOrder(root,inorder);
-         ic=inorder;
-         sort(ic.begin(),ic.end());
-         if(ic[0]!=inorder[0])
-         return false;
-         for(int i=1;i<inorder.size();i++){
-            if(ic[i]!=inorder[i] || ic[i]==ic[i-1])
-            return false;
-         }
-         return true;
+
+        return inOrder(root);
+         
     }
 };
