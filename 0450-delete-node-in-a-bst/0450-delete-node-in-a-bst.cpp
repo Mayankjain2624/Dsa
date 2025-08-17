@@ -52,14 +52,12 @@ public:
             return root->left;
         TreeNode *rchild = root->right;
         TreeNode *lchild = root->left;
-        TreeNode *lastright = findlastright(root->left);
+        TreeNode *lastright = root->left;
+        while(lastright->right!=nullptr)
+        {
+        lastright=lastright->right;
+        }
         lastright->right = rchild;
         return lchild;
-    }
-    TreeNode *findlastright(TreeNode *root)
-    {
-        if (root->right == nullptr)
-            return root;
-        return findlastright(root->right);
     }
 };
