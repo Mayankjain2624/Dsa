@@ -50,14 +50,12 @@ public:
             return root->right;
         if (root->right == nullptr)
             return root->left;
-        TreeNode *rchild = root->right;
-        TreeNode *lchild = root->left;
         TreeNode *lastright = root->left;
         while(lastright->right!=nullptr)
         {
         lastright=lastright->right;
         }
-        lastright->right = rchild;
-        return lchild;
+        lastright->right = root->right;
+        return root->left;
     }
 };
