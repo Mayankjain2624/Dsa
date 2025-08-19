@@ -6,47 +6,35 @@
  *     TreeNode *right;
  *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
  *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left),
+ * right(right) {}
  * };
  */
 class BSTIterator {
 public:
-// vector<int>inorder;
-// int x=0;
-// void solve(TreeNode* root){
-//     if(root==nullptr)
-//     return;
-//     solve(root->left);
-//     inorder.push_back(root->val);
-//     solve(root->right);
-// }
-TreeNode* it;
-stack<TreeNode*>st;
+    TreeNode* it;
+    stack<TreeNode*> st;
     BSTIterator(TreeNode* root) {
-        // st.push(root);
-        // it=root;    
-        while(root!=nullptr)
-        {
+        while (root != nullptr) {
             st.push(root);
-            root=root->left;
+            root = root->left;
         }
     }
-    
+
     int next() {
-         auto top=st.top();
-         st.pop();
-         it=top->right;
-         while(it!=nullptr)
-         {
+        auto top = st.top();
+        st.pop();
+        it = top->right;
+        while (it != nullptr) {
             st.push(it);
-            it=it->left;
-         }
-         return top->val;
+            it = it->left;
+        }
+        return top->val;
     }
-    
+
     bool hasNext() {
-        if(!st.empty())
-        return true;
+        if (!st.empty())
+            return true;
         return false;
     }
 };
