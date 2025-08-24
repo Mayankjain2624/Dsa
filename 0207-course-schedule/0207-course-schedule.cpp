@@ -2,7 +2,7 @@ class Solution {
 public:
     bool canFinish(int V, vector<vector<int>>& edges) {
         vector<int>adj[V];
-        vector<int>dis(V,INT_MAX);
+        // vector<int>dis(V,INT_MAX);
         vector<int>indegree(V);
         for(auto &it:edges){
             int u=it[0];
