@@ -2,7 +2,6 @@ class Solution {
 public:
     vector<int> findOrder(int V, vector<vector<int>>& edges) {
        vector<vector<int>> adj(V);
-        vector<int>dis(V,INT_MAX);
         vector<int>indegree(V);
         for(auto &it:edges){
             int u=it[0];
@@ -29,8 +28,5 @@ public:
         if(topo.size()!=V)
         return {};
         return topo;
-        // if(topo.size()==V)
-        // return true;
-        // return false;
     }
 };
