@@ -11,14 +11,16 @@ public:
             indegree[u]++;
         }
         queue<int>q;
-        vector<int>topo;
+        // vector<int>topo;
+        int topo=0;
         for(int i=0;i<V;i++){
             if(indegree[i]==0)
             q.push(i);
         }
         while(!q.empty()){
             int node=q.front();
-            topo.push_back(node);
+            // topo.push_back(node);
+            topo++;
             q.pop();
             for(auto &pr:adj[node]){
                 indegree[pr]--;
@@ -26,7 +28,7 @@ public:
                 q.push(pr);
             }
         }
-        if(topo.size()==V)
+        if(topo==V)
         return true;
         return false;
     }
