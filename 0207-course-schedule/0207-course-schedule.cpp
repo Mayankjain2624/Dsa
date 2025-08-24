@@ -7,8 +7,8 @@ public:
         for(auto &it:edges){
             int u=it[0];
             int v=it[1];
-            adj[u].push_back(v);
-            indegree[v]++;
+            adj[v].push_back(u);
+            indegree[u]++;
         }
         queue<int>q;
         vector<int>topo;
