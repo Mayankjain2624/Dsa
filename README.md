@@ -384,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mayankjain2624/Dsa/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/Mayankjain2624/Dsa/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Mayankjain2624/Dsa/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Mayankjain2624/Dsa/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Mayankjain2624/Dsa/tree/master/0342-power-of-four) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mayankjain2624/Dsa/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/Mayankjain2624/Dsa/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Mayankjain2624/Dsa/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mayankjain2624/Dsa/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Tree
