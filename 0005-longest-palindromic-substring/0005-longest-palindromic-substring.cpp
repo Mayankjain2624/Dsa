@@ -24,7 +24,6 @@ public:
                 l--, r++;
             }
         }
-        cout << maxi << endl;
         string as = s.substr(ans.first, ans.second - ans.first + 1);
         return as;
     }
