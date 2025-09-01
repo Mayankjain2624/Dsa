@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Mayankjain2624/Dsa/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/Mayankjain2624/Dsa/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Mayankjain2624/Dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Mayankjain2624/Dsa/tree/master/0142-linked-list-cycle-ii) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Mayankjain2624/Dsa/tree/master/0005-longest-palindromic-substring) |
 | [0076-minimum-window-substring](https://github.com/Mayankjain2624/Dsa/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Mayankjain2624/Dsa/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Mayankjain2624/Dsa/tree/master/0125-valid-palindrome) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Mayankjain2624/Dsa/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/Mayankjain2624/Dsa/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/0063-unique-paths-ii) |
