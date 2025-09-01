@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mayankjain2624/Dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0198-house-robber](https://github.com/Mayankjain2624/Dsa/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/0213-house-robber-ii) |
 | [0455-assign-cookies](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Mayankjain2624/Dsa/tree/master/0594-longest-harmonious-subsequence) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Mayankjain2624/Dsa/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mayankjain2624/Dsa/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0198-house-robber](https://github.com/Mayankjain2624/Dsa/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/Mayankjain2624/Dsa/tree/master/0392-is-subsequence) |
 | [0826-soup-servings](https://github.com/Mayankjain2624/Dsa/tree/master/0826-soup-servings) |
