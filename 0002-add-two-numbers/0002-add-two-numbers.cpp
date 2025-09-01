@@ -10,10 +10,7 @@
  */
 class Solution {
 public:
-    ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-        ListNode* t1=l1;
-        ListNode* t2=l2;
-        // ListNode* ans=new ListNode(0);
+    ListNode* addTwoNumbers(ListNode* t1, ListNode* t2) {
         ListNode* head=new ListNode(-1);
         ListNode* ans=head;
         int sum=0;
