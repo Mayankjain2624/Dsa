@@ -1,20 +1,15 @@
-#include <vector>
-#include <algorithm>
-
 class Solution {
 public:
-    int maximumDifference(std::vector<int>& nums) {
-        int minVal = nums[0];
-        int maxDiff = -1;
-
-        for (int i = 1; i < nums.size(); ++i) {
-            if (nums[i] > minVal) {
-                maxDiff = std::max(maxDiff, nums[i] - minVal);
-            } else {
-                minVal = nums[i];
-            }
+    int maximumDifference(vector<int>& nums) {
+        int ans=0;
+        int mini=nums[0];
+        int n=nums.size();
+        for(int i=1;i<n;i++){
+             mini=min(mini,nums[i]);
+             ans=max(ans,nums[i]-mini);
         }
-
-        return maxDiff;
+        if(ans<=0)
+        return -1;
+        return ans;
     }
 };
