@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Mayankjain2624/Dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Mayankjain2624/Dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Mayankjain2624/Dsa/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Mayankjain2624/Dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mayankjain2624/Dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Mayankjain2624/Dsa/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/Mayankjain2624/Dsa/tree/master/0392-is-subsequence) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Mayankjain2624/Dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Mayankjain2624/Dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Mayankjain2624/Dsa/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Mayankjain2624/Dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0594-longest-harmonious-subsequence](https://github.com/Mayankjain2624/Dsa/tree/master/0594-longest-harmonious-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mayankjain2624/Dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Mayankjain2624/Dsa/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Mayankjain2624/Dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Mayankjain2624/Dsa/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/Mayankjain2624/Dsa/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Mayankjain2624/Dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Mayankjain2624/Dsa/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Mayankjain2624/Dsa/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Mayankjain2624/Dsa/tree/master/0328-odd-even-linked-list) |
