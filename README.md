@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Mayankjain2624/Dsa/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/Mayankjain2624/Dsa/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Mayankjain2624/Dsa/tree/master/0496-next-greater-element-i) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Mayankjain2624/Dsa/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mayankjain2624/Dsa/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Mayankjain2624/Dsa/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Mayankjain2624/Dsa/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/0213-house-robber-ii) |
 | [0455-assign-cookies](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/0455-assign-cookies) |
+| [0496-next-greater-element-i](https://github.com/Mayankjain2624/Dsa/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/Mayankjain2624/Dsa/tree/master/0594-longest-harmonious-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/0713-subarray-product-less-than-k) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Mayankjain2624/Dsa/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Mayankjain2624/Dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Mayankjain2624/Dsa/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Mayankjain2624/Dsa/tree/master/0160-intersection-of-two-linked-lists) |
+| [0496-next-greater-element-i](https://github.com/Mayankjain2624/Dsa/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/Mayankjain2624/Dsa/tree/master/0594-longest-harmonious-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mayankjain2624/Dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Mayankjain2624/Dsa/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -552,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Mayankjain2624/Dsa/tree/master/0496-next-greater-element-i) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mayankjain2624/Dsa/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Iterator
 |  |
