@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mayankjain2624/Dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Mayankjain2624/Dsa/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/0213-house-robber-ii) |
+| [0239-sliding-window-maximum](https://github.com/Mayankjain2624/Dsa/tree/master/0239-sliding-window-maximum) |
 | [0455-assign-cookies](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Mayankjain2624/Dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Mayankjain2624/Dsa/tree/master/0503-next-greater-element-ii) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Mayankjain2624/Dsa/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/Mayankjain2624/Dsa/tree/master/0239-sliding-window-maximum) |
 | [0594-longest-harmonious-subsequence](https://github.com/Mayankjain2624/Dsa/tree/master/0594-longest-harmonious-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/0713-subarray-product-less-than-k) |
 | [0940-fruit-into-baskets](https://github.com/Mayankjain2624/Dsa/tree/master/0940-fruit-into-baskets) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Mayankjain2624/Dsa/tree/master/0239-sliding-window-maximum) |
 | [0794-swim-in-rising-water](https://github.com/Mayankjain2624/Dsa/tree/master/0794-swim-in-rising-water) |
 | [0918-reachable-nodes-in-subdivided-graph](https://github.com/Mayankjain2624/Dsa/tree/master/0918-reachable-nodes-in-subdivided-graph) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Mayankjain2624/Dsa/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -592,4 +595,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Mayankjain2624/Dsa/tree/master/0148-sort-list) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Mayankjain2624/Dsa/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Mayankjain2624/Dsa/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
