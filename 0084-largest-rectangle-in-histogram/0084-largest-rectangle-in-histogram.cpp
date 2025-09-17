@@ -23,12 +23,6 @@ public:
             nse[i]=st2.top();
             st2.push(i);
         }
-        for(int i:nse)
-        cout<<i<<" ";
-        cout<<endl;
-        for(int i:pse)
-        cout<<i<<" ";
-        cout<<endl;
         int ans=0;
         for(int i=0;i<n;i++){
      int area=(nse[i]-pse[i]-1)*nums[i];
