@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/Mayankjain2624/Dsa/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mayankjain2624/Dsa/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Mayankjain2624/Dsa/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Mayankjain2624/Dsa/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/Mayankjain2624/Dsa/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Mayankjain2624/Dsa/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Mayankjain2624/Dsa/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Mayankjain2624/Dsa/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Mayankjain2624/Dsa/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Mayankjain2624/Dsa/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Mayankjain2624/Dsa/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Mayankjain2624/Dsa/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Mayankjain2624/Dsa/tree/master/0079-word-search) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Mayankjain2624/Dsa/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Mayankjain2624/Dsa/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mayankjain2624/Dsa/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
@@ -429,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Mayankjain2624/Dsa/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Mayankjain2624/Dsa/tree/master/0371-sum-of-two-integers) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Mayankjain2624/Dsa/tree/master/0795-k-th-symbol-in-grammar) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Mayankjain2624/Dsa/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mayankjain2624/Dsa/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2529-range-product-queries-of-powers](https://github.com/Mayankjain2624/Dsa/tree/master/2529-range-product-queries-of-powers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mayankjain2624/Dsa/tree/master/3600-find-the-k-th-character-in-string-game-i) |
