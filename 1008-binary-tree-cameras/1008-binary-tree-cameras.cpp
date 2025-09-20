@@ -41,7 +41,6 @@ public:
     }
     int minCameraCover(TreeNode* root) {
         dfs(root, nullptr);
-        // if(cover.find(root->left))
         if (cover.find(root) == 0)
             ans++;
         
