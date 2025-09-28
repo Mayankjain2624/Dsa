@@ -45,11 +45,12 @@ public:
             ds.UnionBySize(i, j);
         }
         map<int,vector<int>>groups;
+        // for(int i=0;i<n;i++){
+        //     // cout<<i<<":"<<ds.parent[i]<<endl;
+        // //    ds.UnionBySize(i,ds.parent[i]);
+        // }
         for(int i=0;i<n;i++){
-           ds.UnionBySize(i,ds.parent[i]);
-        }
-        for(int i=0;i<n;i++){
-            groups[ds.parent[i]].push_back(i);
+            groups[ds.findPar(i)].push_back(i);
         }
         ll ans=0;
         for(auto &it:groups){
