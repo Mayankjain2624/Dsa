@@ -11,61 +11,61 @@ public:
         int n = heights.size();
         int m = heights[0].size();
         queue<pair<int, int>> pacific, atlantic;
-        vector<vector<int>> vis(n, vector<int>(m, 0));
+        vector<vector<int>> visp(n, vector<int>(m, 0)),visa(n, vector<int>(m, 0));
         for (int i = 0; i < n; i++) {
             pacific.push({i, 0});
-            vis[i][0] = 1;
+            visp[i][0] = 1;
         }
         for (int j = 1; j < m; j++) {
             pacific.push({0, j});
-            vis[0][j] = 1;
+            visp[0][j] = 1;
         }
-        set<pair<int, int>> pr;
+        // unordered_set<pair<int, int>> pr;
         while (!pacific.empty()) {
             int x = pacific.front().first;
             int y = pacific.front().second;
-            pr.insert({x, y});
+            // pr.insert({x, y});
             pacific.pop();
-            vis[x][y] = 1;
+            visp[x][y] = 1;
             for (int i = 0; i < 4; i++) {
                 int nx = x + dx[i];
                 int ny = y + dy[i];
-                if (isValid(nx, ny, n, m) && !vis[nx][ny] &&
+                if (isValid(nx, ny, n, m) && !visp[nx][ny] &&
                     heights[nx][ny] >= heights[x][y])
                     pacific.push({nx, ny});
             }
         }
-        fill(vis.begin(), vis.end(), vector<int>(m, 0));
         for (int i = 0; i < n; i++) {
             atlantic.push({i, m - 1});
-            vis[i][m - 1] = 1;
+            visa[i][m - 1] = 1;
         }
         for (int j = 0; j < m; j++) {
             atlantic.push({n - 1, j});
-            vis[n - 1][j] = 1;
+            visa[n - 1][j] = 1;
         }
-        set<pair<int, int>> ar;
+        // unordered_set<pair<int, int>> ar;
         while (!atlantic.empty()) {
             int x = atlantic.front().first;
             int y = atlantic.front().second;
-            ar.insert({x, y});
+            // ar.insert({x, y});
             atlantic.pop();
-            vis[x][y] = 1;
+            visa[x][y] = 1;
             for (int i = 0; i < 4; i++) {
                 int nx = x + dx[i];
                 int ny = y + dy[i];
-                if (isValid(nx, ny, n, m) && !vis[nx][ny] &&
+                if (isValid(nx, ny, n, m) && !visa[nx][ny] &&
                     heights[nx][ny] >= heights[x][y])
                     atlantic.push({nx, ny});
             }
         }
         vector<vector<int>> ans;
-        for (auto& p : ar) {
-            if (pr.count(p)) {
-                ans.push_back({p.first, p.second});
-            }
+       for(int i=0;i<n;i++){
+        for(int j=0;j<m;j++){
+            if(visp[i][j]==1 && visa[i][j]==1)
+            ans.push_back({i,j});
         }
-        sort(ans.begin(), ans.end());
+       }
+        // sort(ans.begin(), ans.end());
         return ans;
     }
 };
