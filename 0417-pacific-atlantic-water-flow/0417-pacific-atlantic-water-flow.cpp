@@ -59,12 +59,6 @@ public:
                     atlantic.push({nx, ny});
             }
         }
-        for (auto& it : pr) {
-            cout << it.first << " " << it.second << endl;
-        }
-        for (auto& it : ar) {
-            cout << it.first << " " << it.second << endl;
-        }
         vector<vector<int>> ans;
         for (auto& p : ar) {
             if (pr.count(p)) {
