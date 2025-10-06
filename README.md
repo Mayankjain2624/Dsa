@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mayankjain2624/Dsa/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/Mayankjain2624/Dsa/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Mayankjain2624/Dsa/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/Mayankjain2624/Dsa/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/0063-unique-paths-ii) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Mayankjain2624/Dsa/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Mayankjain2624/Dsa/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mayankjain2624/Dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0031-next-permutation](https://github.com/Mayankjain2624/Dsa/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Mayankjain2624/Dsa/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/Mayankjain2624/Dsa/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Mayankjain2624/Dsa/tree/master/0141-linked-list-cycle) |
