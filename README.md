@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Mayankjain2624/Dsa/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/0213-house-robber-ii) |
 | [0239-sliding-window-maximum](https://github.com/Mayankjain2624/Dsa/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/Mayankjain2624/Dsa/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Mayankjain2624/Dsa/tree/master/0283-move-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/Mayankjain2624/Dsa/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Mayankjain2624/Dsa/tree/master/0417-pacific-atlantic-water-flow) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mayankjain2624/Dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/Mayankjain2624/Dsa/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/Mayankjain2624/Dsa/tree/master/0268-missing-number) |
 | [0713-subarray-product-less-than-k](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/0713-subarray-product-less-than-k) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Mayankjain2624/Dsa/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0794-swim-in-rising-water](https://github.com/Mayankjain2624/Dsa/tree/master/0794-swim-in-rising-water) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Mayankjain2624/Dsa/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Mayankjain2624/Dsa/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Mayankjain2624/Dsa/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Mayankjain2624/Dsa/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Mayankjain2624/Dsa/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Mayankjain2624/Dsa/tree/master/0371-sum-of-two-integers) |
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Mayankjain2624/Dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Mayankjain2624/Dsa/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Mayankjain2624/Dsa/tree/master/0160-intersection-of-two-linked-lists) |
+| [0268-missing-number](https://github.com/Mayankjain2624/Dsa/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Mayankjain2624/Dsa/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/Mayankjain2624/Dsa/tree/master/0594-longest-harmonious-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mayankjain2624/Dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -426,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Mayankjain2624/Dsa/tree/master/0148-sort-list) |
+| [0268-missing-number](https://github.com/Mayankjain2624/Dsa/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Mayankjain2624/Dsa/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/Mayankjain2624/Dsa/tree/master/0900-reordered-power-of-2) |
@@ -450,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Mayankjain2624/Dsa/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Mayankjain2624/Dsa/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Mayankjain2624/Dsa/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Mayankjain2624/Dsa/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Mayankjain2624/Dsa/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Mayankjain2624/Dsa/tree/master/0371-sum-of-two-integers) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Mayankjain2624/Dsa/tree/master/0795-k-th-symbol-in-grammar) |
