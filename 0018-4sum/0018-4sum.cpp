@@ -14,8 +14,8 @@ public:
                 continue;
             ll l = j + 1;
             ll r = n - 1;
-            ll currentSum = nums[l] + nums[r];
             while (l < r) {
+            ll currentSum = nums[l] + nums[r];
                 if (currentSum == need) {
                     ans.push_back({nums[i],nums[j], nums[l], nums[r]});
                     currentSum = 0;
@@ -29,23 +29,23 @@ public:
                         prevR = r;
                         r--;
                     }
-                    currentSum += (nums[l] + nums[r]);
+                    // currentSum += (nums[l] + nums[r]);
                 } else if (currentSum < need) {
-                    currentSum -= nums[l];
+                    // currentSum -= nums[l];
                     ll prevL = l;
                     while (nums[prevL] == nums[l] && l < n - 1) {
                         prevL = l;
                         l++;
                     }
-                    currentSum += nums[l];
+                    // currentSum += nums[l];
                 } else {
-                    currentSum -= nums[r];
+                    // currentSum -= nums[r];
                     ll prevR = r;
                     while (nums[prevR] == nums[r] && r > 0) {
                         prevR = r;
                         r--;
                     }
-                    currentSum += nums[r];
+                    // currentSum += nums[r];
                 }
             }
             }
