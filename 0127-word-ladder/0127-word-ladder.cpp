@@ -1,28 +1,32 @@
-class Solution {
+class Solution
+{
 public:
-    int ladderLength(string beginWord, string endWord,
-                     vector<string>& wordList) {
-        queue<pair<string, int>> q;
-        q.push({beginWord, 1});
-        unordered_set<string> st(wordList.begin(), wordList.end());
-        st.erase(beginWord);
-        while (!q.empty()) {
-            string word = q.front().first;
-            int dis = q.front().second;
+    int ladderLength(string beginWord, string endWord, vector<string> &wordList)
+    {
+        queue<pair<string,int>> q;
+       unordered_set<string> st(wordList.begin(), wordList.end());
+            q.push({beginWord, 1});
+        while (!q.empty())
+        {
+            string currentWord = q.front().first;
+            int cost = q.front().second;
+            if (currentWord == endWord)
+                return cost;
+            int x = currentWord.length();
             q.pop();
-            if(word==endWord)
-            return dis;
-            for (int i = 0; i < word.size(); i++) {
-                char original = word[i];
-                for (char ch = 'a'; ch <= 'z'; ch++) {
-                    word[i] = ch;
-                    if(st.find(word)!=st.end())
+                for (int i = 0; i < x; i++)
+                {
+                    char removed=currentWord[i];
+            for (char c = 'a'; c <= 'z'; c++)
+            {
+                    currentWord[i] = c;
+                    if (st.find(currentWord) != st.end())
                     {
-                        q.push({word,dis+1});
-                        st.erase(word);
+                        q.push({currentWord, cost + 1});
+                        st.erase(currentWord);
                     }
                 }
-                word[i]=original;
+                    currentWord[i]=removed;
             }
         }
         return 0;
