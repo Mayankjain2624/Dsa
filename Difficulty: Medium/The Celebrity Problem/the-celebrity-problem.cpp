@@ -1,24 +1,40 @@
 class Solution {
   public:
-    int celebrity(vector<vector<int>>& mat) 
-    {
-        int n=mat.size();
-        // int m=mat[0].size();
-        if(n==1)
-        return 0;
-        for(int i=0;i<n;i++){
-            int s=0;
-            for(int j=0;j<n;j++){
-                s+=mat[i][j];
-            }
-            if(s==1)
+    int celebrity(vector<vector<int>>& mat) {
+        // code here
+        int l=0;
+        int r=mat.size()-1;
+        while(l<=r){
+            if(l==r)
             {
-                int t=0;
-                for(int k=0;k<n;k++){
-                    t+=mat[k][i];
+                for(int i=0;i<mat.size();i++){
+                    if(mat[i][l]==0)
+                    return -1;
                 }
-                if(t==n)
-                return i;
+                for(int i=0;i<mat.size();i++){
+                    if(l==i)
+                    continue;
+                    if(mat[l][i]==1)
+                    return -1;
+                }
+                return l;
+            }
+            if(mat[l][r]==1 && mat[r][l]==1)
+            {
+                l++;
+                r--;
+            }
+            else if(mat[l][r]==0 && mat[r][l]==0){
+                l++;
+                r--;
+            }
+            else if(mat[l][r]==1)
+            {
+                l++;
+            }
+            else
+            {
+                r--;
             }
         }
         return -1;
