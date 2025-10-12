@@ -12,10 +12,10 @@ public:
         ListNode* slow = head;
         ListNode* fast = head;
         while (fast != nullptr && fast->next != nullptr) {
-                slow = slow->next;
-                fast = fast->next->next;
+            slow = slow->next;
+            fast = fast->next->next;
             if (slow == fast) {
-                cout<<slow->val<<endl;
+                cout << slow->val << endl;
                 ListNode* s1 = head;
                 while (slow != s1) {
                     slow = slow->next;
