@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Mayankjain2624/Dsa/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/Mayankjain2624/Dsa/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Mayankjain2624/Dsa/tree/master/3791-fruits-into-baskets-iii) |
+| [4045-longest-balanced-subarray-i](https://github.com/Mayankjain2624/Dsa/tree/master/4045-longest-balanced-subarray-i) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Mayankjain2624/Dsa/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Binary Search
 |  |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3618-find-the-original-typed-string-ii](https://github.com/Mayankjain2624/Dsa/tree/master/3618-find-the-original-typed-string-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Mayankjain2624/Dsa/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [4045-longest-balanced-subarray-i](https://github.com/Mayankjain2624/Dsa/tree/master/4045-longest-balanced-subarray-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Mayankjain2624/Dsa/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [4045-longest-balanced-subarray-i](https://github.com/Mayankjain2624/Dsa/tree/master/4045-longest-balanced-subarray-i) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Mayankjain2624/Dsa/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Heap (Priority Queue)
 |  |
@@ -647,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Mayankjain2624/Dsa/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Mayankjain2624/Dsa/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Mayankjain2624/Dsa/tree/master/0191-number-of-1-bits) |
+| [4045-longest-balanced-subarray-i](https://github.com/Mayankjain2624/Dsa/tree/master/4045-longest-balanced-subarray-i) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -663,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Mayankjain2624/Dsa/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Mayankjain2624/Dsa/tree/master/3791-fruits-into-baskets-iii) |
+| [4045-longest-balanced-subarray-i](https://github.com/Mayankjain2624/Dsa/tree/master/4045-longest-balanced-subarray-i) |
 ## Ordered Set
 |  |
 | ------- |
