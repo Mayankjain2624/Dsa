@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mayankjain2624/Dsa/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Mayankjain2624/Dsa/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Mayankjain2624/Dsa/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Mayankjain2624/Dsa/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Mayankjain2624/Dsa/tree/master/0125-valid-palindrome) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mayankjain2624/Dsa/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Mayankjain2624/Dsa/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/Mayankjain2624/Dsa/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/0063-unique-paths-ii) |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Mayankjain2624/Dsa/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Mayankjain2624/Dsa/tree/master/0079-word-search) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Mayankjain2624/Dsa/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Mayankjain2624/Dsa/tree/master/2140-longest-subsequence-repeated-k-times) |
