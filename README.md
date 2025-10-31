@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/Mayankjain2624/Dsa/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Mayankjain2624/Dsa/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Mayankjain2624/Dsa/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Mayankjain2624/Dsa/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Mayankjain2624/Dsa/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Mayankjain2624/Dsa/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Mayankjain2624/Dsa/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/Mayankjain2624/Dsa/tree/master/2448-count-number-of-bad-pairs) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3336-water-bottles-ii](https://github.com/Mayankjain2624/Dsa/tree/master/3336-water-bottles-ii) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Mayankjain2624/Dsa/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mayankjain2624/Dsa/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Dynamic Programming
 |  |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2689-rearranging-fruits](https://github.com/Mayankjain2624/Dsa/tree/master/2689-rearranging-fruits) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Mayankjain2624/Dsa/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Mayankjain2624/Dsa/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [4045-longest-balanced-subarray-i](https://github.com/Mayankjain2624/Dsa/tree/master/4045-longest-balanced-subarray-i) |
