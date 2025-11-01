@@ -11,9 +11,9 @@
 class Solution {
 public:
     ListNode* modifiedList(vector<int>& nums, ListNode* head) {
-        unordered_map<int,int>mp;
+        unordered_set<int>st;
         for(int i:nums){
-            mp[i]++;
+            st.insert(i);
         }
         ListNode* dummy=new ListNode(-1);
         dummy->next=head;
@@ -21,7 +21,7 @@ public:
         ListNode* curr=head;
         while(curr!=nullptr){
             int val=curr->val;
-            if(mp[val]>0)
+            if(st.count(val))
             {
                 ListNode* temp=curr;
                 prev->next=curr->next;
