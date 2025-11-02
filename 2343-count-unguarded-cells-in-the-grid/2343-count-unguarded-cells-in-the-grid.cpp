@@ -2,8 +2,10 @@ class Solution {
 public:
     int countUnguarded(int m, int n, vector<vector<int>>& guards, vector<vector<int>>& walls) {
         vector<vector<int>> grid(m, vector<int>(n, 1));
-        for (auto &w : walls) grid[w[0]][w[1]] = 2;
-        for (auto &g : guards) grid[g[0]][g[1]] = 3;
+        for (auto &w : walls)
+         grid[w[0]][w[1]] = 2;
+        for (auto &g : guards) 
+         grid[g[0]][g[1]] = 3;
 
         for (int i = 0; i < m; i++) {
             bool seen = false;
