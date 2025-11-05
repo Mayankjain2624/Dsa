@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Mayankjain2624/Dsa/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Mayankjain2624/Dsa/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Mayankjain2624/Dsa/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Mayankjain2624/Dsa/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Mayankjain2624/Dsa/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Mayankjain2624/Dsa/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Mayankjain2624/Dsa/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Mayankjain2624/Dsa/tree/master/0594-longest-harmonious-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/0713-subarray-product-less-than-k) |
 | [0940-fruit-into-baskets](https://github.com/Mayankjain2624/Dsa/tree/master/0940-fruit-into-baskets) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Mayankjain2624/Dsa/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Mayankjain2624/Dsa/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Mayankjain2624/Dsa/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Mayankjain2624/Dsa/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Mayankjain2624/Dsa/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Mayankjain2624/Dsa/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Mayankjain2624/Dsa/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [4045-longest-balanced-subarray-i](https://github.com/Mayankjain2624/Dsa/tree/master/4045-longest-balanced-subarray-i) |
@@ -446,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Mayankjain2624/Dsa/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/Mayankjain2624/Dsa/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Mayankjain2624/Dsa/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 ## Depth-First Search
 |  |
 | ------- |
