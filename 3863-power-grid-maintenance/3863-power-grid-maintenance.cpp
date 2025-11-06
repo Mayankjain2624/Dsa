@@ -28,7 +28,7 @@ public:
             }
         }
 
-        unordered_map<int, int> ump;
+       vector<int> ump(c + 1);
         for (int i = 0; i < zones.size(); i++) {
             for (int j : zones[i])
                 ump[j] = i;
