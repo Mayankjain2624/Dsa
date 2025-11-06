@@ -33,21 +33,21 @@ public:
             for (int j : zones[i])
                 ump[j] = i;
         }
-        vector<int> line(c + 1, 1);
+        // vector<int> vis(c + 1, 1);
         vector<int> ans;
         for (auto& it : queries) {
             int choice = it[0];
             int x = it[1];
             if (choice == 1) {
-                if (line[x] == 1)
+                if (vis[x] == 1)
                     ans.push_back(x);
-                else if (line[x] == 0 && !zones[ump[x]].empty())
+                else if (vis[x] == 0 && !zones[ump[x]].empty())
                     ans.push_back(*zones[ump[x]].begin());
                 else
                     ans.push_back(-1);
             }
             if (choice == 2) {
-                line[x] = 0;
+                vis[x] = 0;
                 if (!zones[ump[x]].empty()) {
                     zones[ump[x]].erase(x);
                 }
