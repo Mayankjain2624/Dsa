@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/Mayankjain2624/Dsa/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
 | [2689-rearranging-fruits](https://github.com/Mayankjain2624/Dsa/tree/master/2689-rearranging-fruits) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Mayankjain2624/Dsa/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mayankjain2624/Dsa/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/Mayankjain2624/Dsa/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Mayankjain2624/Dsa/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Mayankjain2624/Dsa/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Mayankjain2624/Dsa/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2448-count-number-of-bad-pairs](https://github.com/Mayankjain2624/Dsa/tree/master/2448-count-number-of-bad-pairs) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mayankjain2624/Dsa/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3336-water-bottles-ii](https://github.com/Mayankjain2624/Dsa/tree/master/3336-water-bottles-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Mayankjain2624/Dsa/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mayankjain2624/Dsa/tree/master/3600-find-the-k-th-character-in-string-game-i) |
