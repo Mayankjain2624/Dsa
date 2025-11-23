@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Mayankjain2624/Dsa/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mayankjain2624/Dsa/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1073-number-of-enclaves](https://github.com/Mayankjain2624/Dsa/tree/master/1073-number-of-enclaves) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Mayankjain2624/Dsa/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Mayankjain2624/Dsa/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Mayankjain2624/Dsa/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Mayankjain2624/Dsa/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Mayankjain2624/Dsa/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/0455-assign-cookies) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Mayankjain2624/Dsa/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Mayankjain2624/Dsa/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Mayankjain2624/Dsa/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Mayankjain2624/Dsa/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/Mayankjain2624/Dsa/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/0967-minimum-falling-path-sum) |
 | [1008-binary-tree-cameras](https://github.com/Mayankjain2624/Dsa/tree/master/1008-binary-tree-cameras) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Mayankjain2624/Dsa/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/Mayankjain2624/Dsa/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1559-cherry-pickup-ii](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/1559-cherry-pickup-ii) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Mayankjain2624/Dsa/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -570,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Mayankjain2624/Dsa/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/Mayankjain2624/Dsa/tree/master/0900-reordered-power-of-2) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Mayankjain2624/Dsa/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Mayankjain2624/Dsa/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Mayankjain2624/Dsa/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Mayankjain2624/Dsa/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Mayankjain2624/Dsa/tree/master/1669-minimum-cost-to-cut-a-stick) |
