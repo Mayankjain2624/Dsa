@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Mayankjain2624/Dsa/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Mayankjain2624/Dsa/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Mayankjain2624/Dsa/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1929-concatenation-of-array](https://github.com/Mayankjain2624/Dsa/tree/master/1929-concatenation-of-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Mayankjain2624/Dsa/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Mayankjain2624/Dsa/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Mayankjain2624/Dsa/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -645,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/Mayankjain2624/Dsa/tree/master/1642-water-bottles) |
+| [1929-concatenation-of-array](https://github.com/Mayankjain2624/Dsa/tree/master/1929-concatenation-of-array) |
 | [2169-simple-bank-system](https://github.com/Mayankjain2624/Dsa/tree/master/2169-simple-bank-system) |
 | [2211-count-collisions-on-a-road](https://github.com/Mayankjain2624/Dsa/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Mayankjain2624/Dsa/tree/master/2274-keep-multiplying-found-values-by-two) |
