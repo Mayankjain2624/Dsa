@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Mayankjain2624/Dsa/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Mayankjain2624/Dsa/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Mayankjain2624/Dsa/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Mayankjain2624/Dsa/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/Mayankjain2624/Dsa/tree/master/2211-count-collisions-on-a-road) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Mayankjain2624/Dsa/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Mayankjain2624/Dsa/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1642-water-bottles](https://github.com/Mayankjain2624/Dsa/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Mayankjain2624/Dsa/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Mayankjain2624/Dsa/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Mayankjain2624/Dsa/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Mayankjain2624/Dsa/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2448-count-number-of-bad-pairs](https://github.com/Mayankjain2624/Dsa/tree/master/2448-count-number-of-bad-pairs) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Mayankjain2624/Dsa/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Mayankjain2624/Dsa/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Mayankjain2624/Dsa/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Mayankjain2624/Dsa/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Mayankjain2624/Dsa/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Mayankjain2624/Dsa/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Mayankjain2624/Dsa/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
