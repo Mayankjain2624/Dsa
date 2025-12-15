@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/Mayankjain2624/Dsa/tree/master/2689-rearranging-fruits) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Mayankjain2624/Dsa/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mayankjain2624/Dsa/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Mayankjain2624/Dsa/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/Mayankjain2624/Dsa/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mayankjain2624/Dsa/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Mayankjain2624/Dsa/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Mayankjain2624/Dsa/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/Mayankjain2624/Dsa/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Mayankjain2624/Dsa/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Mayankjain2624/Dsa/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/Mayankjain2624/Dsa/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3863-power-grid-maintenance](https://github.com/Mayankjain2624/Dsa/tree/master/3863-power-grid-maintenance) |
 ## Sliding Window
@@ -493,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/Mayankjain2624/Dsa/tree/master/2479-meeting-rooms-iii) |
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/Mayankjain2624/Dsa/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Mayankjain2624/Dsa/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Mayankjain2624/Dsa/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/Mayankjain2624/Dsa/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Mayankjain2624/Dsa/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -566,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Mayankjain2624/Dsa/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Mayankjain2624/Dsa/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Mayankjain2624/Dsa/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Mayankjain2624/Dsa/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Mayankjain2624/Dsa/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Counting
 |  |
@@ -672,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Mayankjain2624/Dsa/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/Mayankjain2624/Dsa/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Mayankjain2624/Dsa/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Mayankjain2624/Dsa/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/Mayankjain2624/Dsa/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 ## Linked List
 |  |
