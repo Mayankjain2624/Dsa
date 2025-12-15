@@ -19,7 +19,6 @@ public:
         while (!pq.empty()) {
             auto [currTime, x, y] = pq.front();
             pq.pop();
-
             if (currTime > time[x][y])
                 continue;
             for (int d = 0; d < 4; d++) {
