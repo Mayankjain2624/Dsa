@@ -10,14 +10,14 @@ public:
         vector<int> dx = {1, -1, 0, 0};
         vector<int> dy = {0, 0, 1, -1};
 
-        priority_queue<tuple<int, int, int>, vector<tuple<int, int, int>>,
-                       greater<tuple<int, int, int>>>
-            pq;
-
+        // priority_queue<tuple<int, int, int>, vector<tuple<int, int, int>>,
+        //                greater<tuple<int, int, int>>>
+        //     pq;
+        queue<tuple<int, int, int>>pq;
         pq.push({0, 0, 0});
 
         while (!pq.empty()) {
-            auto [currTime, x, y] = pq.top();
+            auto [currTime, x, y] = pq.front();
             pq.pop();
 
             if (currTime > time[x][y])
