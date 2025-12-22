@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Mayankjain2624/Dsa/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/Mayankjain2624/Dsa/tree/master/0943-sum-of-subarray-minimums) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Mayankjain2624/Dsa/tree/master/0944-delete-columns-to-make-sorted) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/Mayankjain2624/Dsa/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0967-minimum-falling-path-sum](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/0967-minimum-falling-path-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Mayankjain2624/Dsa/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Mayankjain2624/Dsa/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Mayankjain2624/Dsa/tree/master/0402-remove-k-digits) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Mayankjain2624/Dsa/tree/master/0944-delete-columns-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Mayankjain2624/Dsa/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/Mayankjain2624/Dsa/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Mayankjain2624/Dsa/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Mayankjain2624/Dsa/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Mayankjain2624/Dsa/tree/master/0542-01-matrix) |
 | [0826-soup-servings](https://github.com/Mayankjain2624/Dsa/tree/master/0826-soup-servings) |
 | [0943-sum-of-subarray-minimums](https://github.com/Mayankjain2624/Dsa/tree/master/0943-sum-of-subarray-minimums) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/Mayankjain2624/Dsa/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0967-minimum-falling-path-sum](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/0967-minimum-falling-path-sum) |
 | [1008-binary-tree-cameras](https://github.com/Mayankjain2624/Dsa/tree/master/1008-binary-tree-cameras) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Mayankjain2624/Dsa/tree/master/1262-greatest-sum-divisible-by-three) |
