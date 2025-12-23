@@ -360,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mayankjain2624/Dsa/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/Mayankjain2624/Dsa/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Mayankjain2624/Dsa/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Mayankjain2624/Dsa/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/0062-unique-paths) |
@@ -638,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Mayankjain2624/Dsa/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Mayankjain2624/Dsa/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Mayankjain2624/Dsa/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/Mayankjain2624/Dsa/tree/master/0191-number-of-1-bits) |
