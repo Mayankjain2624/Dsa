@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/Mayankjain2624/Dsa/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
 | [2689-rearranging-fruits](https://github.com/Mayankjain2624/Dsa/tree/master/2689-rearranging-fruits) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Mayankjain2624/Dsa/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Mayankjain2624/Dsa/tree/master/3074-apple-redistribution-into-boxes) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mayankjain2624/Dsa/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Mayankjain2624/Dsa/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Mayankjain2624/Dsa/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2689-rearranging-fruits](https://github.com/Mayankjain2624/Dsa/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Mayankjain2624/Dsa/tree/master/3074-apple-redistribution-into-boxes) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Mayankjain2624/Dsa/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Mayankjain2624/Dsa/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -622,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/Mayankjain2624/Dsa/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Mayankjain2624/Dsa/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/Mayankjain2624/Dsa/tree/master/2689-rearranging-fruits) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Mayankjain2624/Dsa/tree/master/3074-apple-redistribution-into-boxes) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Mayankjain2624/Dsa/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Backtracking
 |  |
