@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Mayankjain2624/Dsa/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Mayankjain2624/Dsa/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/Mayankjain2624/Dsa/tree/master/1073-number-of-enclaves) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mayankjain2624/Dsa/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Mayankjain2624/Dsa/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Mayankjain2624/Dsa/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -556,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-binary-tree-cameras](https://github.com/Mayankjain2624/Dsa/tree/master/1008-binary-tree-cameras) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Mayankjain2624/Dsa/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/Mayankjain2624/Dsa/tree/master/1073-number-of-enclaves) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mayankjain2624/Dsa/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Mayankjain2624/Dsa/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Mayankjain2624/Dsa/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Mayankjain2624/Dsa/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -759,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-binary-tree-cameras](https://github.com/Mayankjain2624/Dsa/tree/master/1008-binary-tree-cameras) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Mayankjain2624/Dsa/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mayankjain2624/Dsa/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mayankjain2624/Dsa/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Mayankjain2624/Dsa/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Mayankjain2624/Dsa/tree/master/2384-root-equals-sum-of-children) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Mayankjain2624/Dsa/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -793,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-binary-tree-cameras](https://github.com/Mayankjain2624/Dsa/tree/master/1008-binary-tree-cameras) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Mayankjain2624/Dsa/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mayankjain2624/Dsa/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mayankjain2624/Dsa/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Mayankjain2624/Dsa/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Mayankjain2624/Dsa/tree/master/2384-root-equals-sum-of-children) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Mayankjain2624/Dsa/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
