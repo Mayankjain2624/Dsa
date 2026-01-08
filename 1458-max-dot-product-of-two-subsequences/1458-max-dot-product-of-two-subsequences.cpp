@@ -16,16 +16,20 @@ public:
     int maxDotProduct(vector<int>& nums1, vector<int>& nums2) {
         int n = nums1.size();
         int m = nums2.size();
-        vector<vector<int>> dp(n + 1, vector<int>(m + 1, INT_MIN));
+        // vector<vector<int>> dp(n + 1, vector<int>(m + 1, INT_MIN));
+        vector<int>curr(m+1,INT_MIN);
+        vector<int>next(m+1,INT_MIN);
         for (int i = n - 1; i >= 0; i--) {
+              fill(curr.begin(), curr.end(), INT_MIN);
             for (int j = m - 1; j >= 0; j--) {
-                int op1 = nums1[i] * nums2[j] + max(0, dp[i + 1][j + 1]);
-                int op2 = dp[i][j + 1];
-                int op3 = dp[i + 1][j];
+                int op1 = nums1[i] * nums2[j] + max(0, next[j + 1]);
+                int op2 = curr[j + 1];
+                int op3 = next[j];
                 int op4 = nums1[i] * nums2[j];
-                dp[i][j]= max({op1, op2, op3, op4});
+                curr[j]= max({op1, op2, op3, op4});
             }
+            next=curr;
         }
-        return dp[0][0];
+        return curr[0];
     }
 };
