@@ -1,7 +1,7 @@
 /**
  * Definition for a binary tree node.
  * struct TreeNode {
- *     int val;
+ *     long long val;
  *     TreeNode *left;
  *     TreeNode *right;
  *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
@@ -11,31 +11,19 @@
  */
 class Solution {
 public:
-bool inOrder(TreeNode* root){
-    TreeNode* node=root;
-      stack<TreeNode*>st;
-      bool hasprev=false;
-      int prev=-1;
-      while(node!=nullptr || !st.empty())
-      {
-        while(node!=nullptr)
-        {
-            st.push(node);
-            node=node->left;
-        }
-        node=st.top();
-        if(hasprev && node->val<=prev)
+    bool solve(TreeNode* node,long long l,long long r){
+        if(node==nullptr)
+        return true;
+        if(l>=node->val || node->val>=r)
         return false;
-        hasprev=true;
-        prev=node->val;
-        st.pop();
-        node=node->right;
-      }
-      return true;
-}
+        bool lc=solve(node->left,l,node->val);
+        bool rc=solve(node->right,node->val,r);
+        return lc&&rc;
+
+    }
     bool isValidBST(TreeNode* root) {
 
-        return inOrder(root);
+        return solve(root,LLONG_MIN,LLONG_MAX);
          
     }
 };
