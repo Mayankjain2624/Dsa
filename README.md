@@ -423,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/0967-minimum-falling-path-sum) |
 | [1008-binary-tree-cameras](https://github.com/Mayankjain2624/Dsa/tree/master/1008-binary-tree-cameras) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Mayankjain2624/Dsa/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Mayankjain2624/Dsa/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Mayankjain2624/Dsa/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/Mayankjain2624/Dsa/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Mayankjain2624/Dsa/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -563,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mayankjain2624/Dsa/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Mayankjain2624/Dsa/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Mayankjain2624/Dsa/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Mayankjain2624/Dsa/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Mayankjain2624/Dsa/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Mayankjain2624/Dsa/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3863-power-grid-maintenance](https://github.com/Mayankjain2624/Dsa/tree/master/3863-power-grid-maintenance) |
@@ -767,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mayankjain2624/Dsa/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mayankjain2624/Dsa/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Mayankjain2624/Dsa/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Mayankjain2624/Dsa/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Mayankjain2624/Dsa/tree/master/2384-root-equals-sum-of-children) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Mayankjain2624/Dsa/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
@@ -803,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mayankjain2624/Dsa/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mayankjain2624/Dsa/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Mayankjain2624/Dsa/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Mayankjain2624/Dsa/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Mayankjain2624/Dsa/tree/master/2384-root-equals-sum-of-children) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Mayankjain2624/Dsa/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Divide and Conquer
@@ -825,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mayankjain2624/Dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Mayankjain2624/Dsa/tree/master/0783-search-in-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mayankjain2624/Dsa/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Mayankjain2624/Dsa/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Segment Tree
 |  |
 | ------- |
