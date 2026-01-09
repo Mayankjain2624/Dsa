@@ -26,7 +26,6 @@ public:
             if(left[2]< currVal && currVal<right[1])
             {
                 int ns=currVal+left[3]+right[3];
-                cout<<ns<<endl;
                     maxSum=max(maxSum,ns);
                 return {1,min({left[1],right[1],currVal}), max({currVal,right[2],left[2]}),ns};
             }
@@ -35,7 +34,6 @@ public:
         }
         else
         {
-            cout<<"d"<<endl;
             return {0,0,0,0};
         }
     }
