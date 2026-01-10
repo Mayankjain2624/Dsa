@@ -29,7 +29,7 @@ public:
         int n = s1.size();
         int m = s2.size();
         // vector<vector<int>>dp(n+1,vector<int>(m+1,0));
-        vector<int>prev(m+1,0),curr(m+1,0);
+        vector<int>prev(m+1,0);
         // for(int i=1;i<=n;i++){
         //     dp[i][0]=s1[i-1]+dp[i-1][0];
         // }
@@ -37,6 +37,7 @@ public:
             prev[j]=s2[j-1]+prev[j-1];
         }
         for(int i=1;i<=n;i++){
+            vector<int>curr(m+1,0);
             curr[0]=s1[i-1]+prev[0];
                 for(int j=1;j<=m;j++){
                     int op1 = 1e9, op2, op3;
@@ -47,7 +48,7 @@ public:
                     curr[j]=min({op1, op2, op3});
                 }
                 prev=curr;
-                curr.empty();
+                // curr.empty();
         }
         // for(auto i:dp){
         //     for(int j:i)
