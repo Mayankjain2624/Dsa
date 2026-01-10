@@ -28,28 +28,32 @@ public:
     int minimumDeleteSum(string s1, string s2) {
         int n = s1.size();
         int m = s2.size();
-        vector<vector<int>>dp(n+1,vector<int>(m+1,0));
-        for(int i=1;i<=n;i++){
-            dp[i][0]=s1[i-1]+dp[i-1][0];
-        }
+        // vector<vector<int>>dp(n+1,vector<int>(m+1,0));
+        vector<int>prev(m+1,0),curr(m+1,0);
+        // for(int i=1;i<=n;i++){
+        //     dp[i][0]=s1[i-1]+dp[i-1][0];
+        // }
         for(int j=1;j<=m;j++){
-            dp[0][j]=s2[j-1]+dp[0][j-1];
+            prev[j]=s2[j-1]+prev[j-1];
         }
         for(int i=1;i<=n;i++){
+            curr[0]=s1[i-1]+prev[0];
                 for(int j=1;j<=m;j++){
                     int op1 = 1e9, op2, op3;
                     if(s1[i-1]==s2[j-1])
-                    op1=dp[i-1][j-1];
-                    op2=s1[i-1]+dp[i-1][j];
-                    op3=s2[j-1]+dp[i][j-1];
-                    dp[i][j]=min({op1, op2, op3});
+                    op1=prev[j-1];
+                    op2=s1[i-1]+prev[j];
+                    op3=s2[j-1]+curr[j-1];
+                    curr[j]=min({op1, op2, op3});
                 }
+                prev=curr;
+                curr.empty();
         }
         // for(auto i:dp){
         //     for(int j:i)
         //     cout<<j<<" ";
         //     cout<<endl;
         // }
-        return dp[n][m];
+        return prev[m];
     }
 };
