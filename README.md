@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Mayankjain2624/Dsa/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Mayankjain2624/Dsa/tree/master/0283-move-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/Mayankjain2624/Dsa/tree/master/0407-trapping-rain-water-ii) |
+| [0410-split-array-largest-sum](https://github.com/Mayankjain2624/Dsa/tree/master/0410-split-array-largest-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Mayankjain2624/Dsa/tree/master/0417-pacific-atlantic-water-flow) |
 | [0455-assign-cookies](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Mayankjain2624/Dsa/tree/master/0485-max-consecutive-ones) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mayankjain2624/Dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/Mayankjain2624/Dsa/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Mayankjain2624/Dsa/tree/master/0268-missing-number) |
+| [0410-split-array-largest-sum](https://github.com/Mayankjain2624/Dsa/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/0713-subarray-product-less-than-k) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Mayankjain2624/Dsa/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0794-swim-in-rising-water](https://github.com/Mayankjain2624/Dsa/tree/master/0794-swim-in-rising-water) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Mayankjain2624/Dsa/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/Mayankjain2624/Dsa/tree/master/0402-remove-k-digits) |
+| [0410-split-array-largest-sum](https://github.com/Mayankjain2624/Dsa/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/0455-assign-cookies) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Mayankjain2624/Dsa/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Mayankjain2624/Dsa/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Mayankjain2624/Dsa/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Mayankjain2624/Dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/0713-subarray-product-less-than-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Mayankjain2624/Dsa/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -424,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Mayankjain2624/Dsa/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/Mayankjain2624/Dsa/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/Mayankjain2624/Dsa/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/Mayankjain2624/Dsa/tree/master/0542-01-matrix) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Mayankjain2624/Dsa/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0826-soup-servings](https://github.com/Mayankjain2624/Dsa/tree/master/0826-soup-servings) |
