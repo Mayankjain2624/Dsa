@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Mayankjain2624/Dsa/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Mayankjain2624/Dsa/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Mayankjain2624/Dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mayankjain2624/Dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mayankjain2624/Dsa/tree/master/0145-binary-tree-postorder-traversal) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Mayankjain2624/Dsa/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Mayankjain2624/Dsa/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Mayankjain2624/Dsa/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Mayankjain2624/Dsa/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/Mayankjain2624/Dsa/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mayankjain2624/Dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Mayankjain2624/Dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/Mayankjain2624/Dsa/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/Mayankjain2624/Dsa/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/Mayankjain2624/Dsa/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/0120-triangle) |
@@ -594,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Mayankjain2624/Dsa/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Mayankjain2624/Dsa/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/Mayankjain2624/Dsa/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Mayankjain2624/Dsa/tree/master/0130-surrounded-regions) |
 | [0407-trapping-rain-water-ii](https://github.com/Mayankjain2624/Dsa/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Mayankjain2624/Dsa/tree/master/0417-pacific-atlantic-water-flow) |
@@ -862,6 +866,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Mayankjain2624/Dsa/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Mayankjain2624/Dsa/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/Mayankjain2624/Dsa/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Mayankjain2624/Dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Mayankjain2624/Dsa/tree/master/0503-next-greater-element-ii) |
