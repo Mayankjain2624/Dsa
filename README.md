@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Mayankjain2624/Dsa/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/Mayankjain2624/Dsa/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mayankjain2624/Dsa/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3453-separate-squares-i](https://github.com/Mayankjain2624/Dsa/tree/master/3453-separate-squares-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Mayankjain2624/Dsa/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Mayankjain2624/Dsa/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Mayankjain2624/Dsa/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Mayankjain2624/Dsa/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Mayankjain2624/Dsa/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Mayankjain2624/Dsa/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3453-separate-squares-i](https://github.com/Mayankjain2624/Dsa/tree/master/3453-separate-squares-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Mayankjain2624/Dsa/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Mayankjain2624/Dsa/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Mayankjain2624/Dsa/tree/master/3791-fruits-into-baskets-iii) |
