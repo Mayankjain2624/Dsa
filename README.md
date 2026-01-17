@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/Mayankjain2624/Dsa/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
 | [2689-rearranging-fruits](https://github.com/Mayankjain2624/Dsa/tree/master/2689-rearranging-fruits) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Mayankjain2624/Dsa/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Mayankjain2624/Dsa/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Mayankjain2624/Dsa/tree/master/3074-apple-redistribution-into-boxes) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mayankjain2624/Dsa/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Mayankjain2624/Dsa/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Mayankjain2624/Dsa/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2448-count-number-of-bad-pairs](https://github.com/Mayankjain2624/Dsa/tree/master/2448-count-number-of-bad-pairs) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Mayankjain2624/Dsa/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mayankjain2624/Dsa/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3336-water-bottles-ii](https://github.com/Mayankjain2624/Dsa/tree/master/3336-water-bottles-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mayankjain2624/Dsa/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -921,5 +923,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/Mayankjain2624/Dsa/tree/master/1266-minimum-time-visiting-all-points) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Mayankjain2624/Dsa/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Mayankjain2624/Dsa/tree/master/3623-count-number-of-trapezoids-i) |
 <!---LeetCode Topics End-->
