@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Mayankjain2624/Dsa/tree/master/0417-pacific-atlantic-water-flow) |
 | [0455-assign-cookies](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Mayankjain2624/Dsa/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/Mayankjain2624/Dsa/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Mayankjain2624/Dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Mayankjain2624/Dsa/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/Mayankjain2624/Dsa/tree/master/0542-01-matrix) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Mayankjain2624/Dsa/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Mayankjain2624/Dsa/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/Mayankjain2624/Dsa/tree/master/0410-split-array-largest-sum) |
+| [0493-reverse-pairs](https://github.com/Mayankjain2624/Dsa/tree/master/0493-reverse-pairs) |
 | [0713-subarray-product-less-than-k](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Mayankjain2624/Dsa/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Mayankjain2624/Dsa/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -871,6 +873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Mayankjain2624/Dsa/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Mayankjain2624/Dsa/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Mayankjain2624/Dsa/tree/master/0191-number-of-1-bits) |
+| [0493-reverse-pairs](https://github.com/Mayankjain2624/Dsa/tree/master/0493-reverse-pairs) |
 | [4045-longest-balanced-subarray-i](https://github.com/Mayankjain2624/Dsa/tree/master/4045-longest-balanced-subarray-i) |
 ## Binary Search Tree
 |  |
@@ -887,12 +890,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Mayankjain2624/Dsa/tree/master/0493-reverse-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/Mayankjain2624/Dsa/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Mayankjain2624/Dsa/tree/master/3791-fruits-into-baskets-iii) |
 | [4045-longest-balanced-subarray-i](https://github.com/Mayankjain2624/Dsa/tree/master/4045-longest-balanced-subarray-i) |
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Mayankjain2624/Dsa/tree/master/0493-reverse-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/Mayankjain2624/Dsa/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Mayankjain2624/Dsa/tree/master/3791-fruits-into-baskets-iii) |
 | [3863-power-grid-maintenance](https://github.com/Mayankjain2624/Dsa/tree/master/3863-power-grid-maintenance) |
@@ -931,6 +936,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Mayankjain2624/Dsa/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/Mayankjain2624/Dsa/tree/master/0493-reverse-pairs) |
 ## Queue
 |  |
 | ------- |
@@ -949,4 +955,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/Mayankjain2624/Dsa/tree/master/1266-minimum-time-visiting-all-points) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Mayankjain2624/Dsa/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Mayankjain2624/Dsa/tree/master/3623-count-number-of-trapezoids-i) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Mayankjain2624/Dsa/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
