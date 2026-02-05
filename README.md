@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Mayankjain2624/Dsa/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Mayankjain2624/Dsa/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Mayankjain2624/Dsa/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
+| [3379-transformed-array](https://github.com/Mayankjain2624/Dsa/tree/master/3379-transformed-array) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/Mayankjain2624/Dsa/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mayankjain2624/Dsa/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3453-separate-squares-i](https://github.com/Mayankjain2624/Dsa/tree/master/3453-separate-squares-i) |
@@ -768,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Mayankjain2624/Dsa/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2479-meeting-rooms-iii](https://github.com/Mayankjain2624/Dsa/tree/master/2479-meeting-rooms-iii) |
 | [3336-water-bottles-ii](https://github.com/Mayankjain2624/Dsa/tree/master/3336-water-bottles-ii) |
+| [3379-transformed-array](https://github.com/Mayankjain2624/Dsa/tree/master/3379-transformed-array) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mayankjain2624/Dsa/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Mayankjain2624/Dsa/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3790-fruits-into-baskets-ii](https://github.com/Mayankjain2624/Dsa/tree/master/3790-fruits-into-baskets-ii) |
