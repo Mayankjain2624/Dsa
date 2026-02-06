@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Mayankjain2624/Dsa/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Mayankjain2624/Dsa/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Mayankjain2624/Dsa/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2151-maximum-good-people-based-on-statements](https://github.com/Mayankjain2624/Dsa/tree/master/2151-maximum-good-people-based-on-statements) |
 | [2169-simple-bank-system](https://github.com/Mayankjain2624/Dsa/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mayankjain2624/Dsa/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Mayankjain2624/Dsa/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/Mayankjain2624/Dsa/tree/master/0900-reordered-power-of-2) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Mayankjain2624/Dsa/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Mayankjain2624/Dsa/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2151-maximum-good-people-based-on-statements](https://github.com/Mayankjain2624/Dsa/tree/master/2151-maximum-good-people-based-on-statements) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mayankjain2624/Dsa/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Mayankjain2624/Dsa/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -724,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Mayankjain2624/Dsa/tree/master/0090-subsets-ii) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Mayankjain2624/Dsa/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Mayankjain2624/Dsa/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2151-maximum-good-people-based-on-statements](https://github.com/Mayankjain2624/Dsa/tree/master/2151-maximum-good-people-based-on-statements) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mayankjain2624/Dsa/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Mayankjain2624/Dsa/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Bit Manipulation
@@ -743,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/Mayankjain2624/Dsa/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Mayankjain2624/Dsa/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Mayankjain2624/Dsa/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [2151-maximum-good-people-based-on-statements](https://github.com/Mayankjain2624/Dsa/tree/master/2151-maximum-good-people-based-on-statements) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mayankjain2624/Dsa/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2529-range-product-queries-of-powers](https://github.com/Mayankjain2624/Dsa/tree/master/2529-range-product-queries-of-powers) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Mayankjain2624/Dsa/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
