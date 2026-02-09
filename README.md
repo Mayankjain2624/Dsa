@@ -372,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Mayankjain2624/Dsa/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Mayankjain2624/Dsa/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Mayankjain2624/Dsa/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Mayankjain2624/Dsa/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Mayankjain2624/Dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0392-is-subsequence](https://github.com/Mayankjain2624/Dsa/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/Mayankjain2624/Dsa/tree/master/0402-remove-k-digits) |
@@ -540,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Mayankjain2624/Dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Mayankjain2624/Dsa/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Mayankjain2624/Dsa/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Mayankjain2624/Dsa/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Mayankjain2624/Dsa/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Mayankjain2624/Dsa/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Mayankjain2624/Dsa/tree/master/0560-subarray-sum-equals-k) |
@@ -709,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Mayankjain2624/Dsa/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Mayankjain2624/Dsa/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Mayankjain2624/Dsa/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Mayankjain2624/Dsa/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Mayankjain2624/Dsa/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Mayankjain2624/Dsa/tree/master/0594-longest-harmonious-subsequence) |
