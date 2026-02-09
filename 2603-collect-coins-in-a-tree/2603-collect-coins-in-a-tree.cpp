@@ -14,9 +14,6 @@ public:
             adj[u].push_back(v);
             adj[v].push_back(u);
         }
-         for(int i:deg)
-        cout<<i<<" ";
-        cout<<endl;
         queue<int>q;
         for(int i=0;i<n;i++){
             if(deg[i]==1 && coins[i]==0)
@@ -27,14 +24,17 @@ public:
             q.pop();
             deg[node]--;
             for(int i:adj[node]){
+                if(deg[i]>0){
+
                 deg[i]--;
                 if(deg[i]==1 && coins[i]==0)
                     q.push(i);
+                }
             }
         }
-         for(int i:deg)
-        cout<<i<<" ";
-        cout<<endl;
+        //  for(int i:deg)
+        // cout<<i<<" ";
+        // cout<<endl;
         for(int k=0;k<2;k++){
         queue<int>q2;
         for(int i=0;i<n;i++){
@@ -60,9 +60,9 @@ public:
             if(deg[u]>0 && deg[v]>0)
             re++;
         }
-        for(int i:deg)
-        cout<<i<<" ";
-        cout<<endl;
+        // for(int i:deg)
+        // cout<<i<<" ";
+        // cout<<endl;
         return re*2;
     }
 };
