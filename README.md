@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Mayankjain2624/Dsa/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/Mayankjain2624/Dsa/tree/master/2509-cycle-length-queries-in-a-tree) |
 | [2529-range-product-queries-of-powers](https://github.com/Mayankjain2624/Dsa/tree/master/2529-range-product-queries-of-powers) |
+| [2603-collect-coins-in-a-tree](https://github.com/Mayankjain2624/Dsa/tree/master/2603-collect-coins-in-a-tree) |
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/Mayankjain2624/Dsa/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
 | [2689-rearranging-fruits](https://github.com/Mayankjain2624/Dsa/tree/master/2689-rearranging-fruits) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Mayankjain2624/Dsa/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -857,6 +858,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2384-root-equals-sum-of-children](https://github.com/Mayankjain2624/Dsa/tree/master/2384-root-equals-sum-of-children) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Mayankjain2624/Dsa/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/Mayankjain2624/Dsa/tree/master/2509-cycle-length-queries-in-a-tree) |
+| [2603-collect-coins-in-a-tree](https://github.com/Mayankjain2624/Dsa/tree/master/2603-collect-coins-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -960,6 +962,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Mayankjain2624/Dsa/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Mayankjain2624/Dsa/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/Mayankjain2624/Dsa/tree/master/0820-find-eventual-safe-states) |
+| [2603-collect-coins-in-a-tree](https://github.com/Mayankjain2624/Dsa/tree/master/2603-collect-coins-in-a-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -999,4 +1002,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Mayankjain2624/Dsa/tree/master/0785-is-graph-bipartite) |
+| [2603-collect-coins-in-a-tree](https://github.com/Mayankjain2624/Dsa/tree/master/2603-collect-coins-in-a-tree) |
 <!---LeetCode Topics End-->
