@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/Mayankjain2624/Dsa/tree/master/0944-delete-columns-to-make-sorted) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Mayankjain2624/Dsa/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0967-minimum-falling-path-sum](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/0967-minimum-falling-path-sum) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mayankjain2624/Dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Mayankjain2624/Dsa/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Mayankjain2624/Dsa/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mayankjain2624/Dsa/tree/master/1046-max-consecutive-ones-iii) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Mayankjain2624/Dsa/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0794-swim-in-rising-water](https://github.com/Mayankjain2624/Dsa/tree/master/0794-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/Mayankjain2624/Dsa/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mayankjain2624/Dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mayankjain2624/Dsa/tree/master/1046-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Mayankjain2624/Dsa/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Mayankjain2624/Dsa/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
