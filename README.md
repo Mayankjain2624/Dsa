@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Mayankjain2624/Dsa/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Mayankjain2624/Dsa/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Mayankjain2624/Dsa/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3719-longest-balanced-subarray-i](https://github.com/Mayankjain2624/Dsa/tree/master/3719-longest-balanced-subarray-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Mayankjain2624/Dsa/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Mayankjain2624/Dsa/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3618-find-the-original-typed-string-ii](https://github.com/Mayankjain2624/Dsa/tree/master/3618-find-the-original-typed-string-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Mayankjain2624/Dsa/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Mayankjain2624/Dsa/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3719-longest-balanced-subarray-i](https://github.com/Mayankjain2624/Dsa/tree/master/3719-longest-balanced-subarray-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [4045-longest-balanced-subarray-i](https://github.com/Mayankjain2624/Dsa/tree/master/4045-longest-balanced-subarray-i) |
 ## Two Pointers
@@ -580,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Mayankjain2624/Dsa/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Mayankjain2624/Dsa/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Mayankjain2624/Dsa/tree/master/3623-count-number-of-trapezoids-i) |
+| [3719-longest-balanced-subarray-i](https://github.com/Mayankjain2624/Dsa/tree/master/3719-longest-balanced-subarray-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Mayankjain2624/Dsa/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Mayankjain2624/Dsa/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -928,6 +931,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Mayankjain2624/Dsa/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Mayankjain2624/Dsa/tree/master/0191-number-of-1-bits) |
 | [0493-reverse-pairs](https://github.com/Mayankjain2624/Dsa/tree/master/0493-reverse-pairs) |
+| [3719-longest-balanced-subarray-i](https://github.com/Mayankjain2624/Dsa/tree/master/3719-longest-balanced-subarray-i) |
 | [4045-longest-balanced-subarray-i](https://github.com/Mayankjain2624/Dsa/tree/master/4045-longest-balanced-subarray-i) |
 ## Binary Search Tree
 |  |
@@ -945,6 +949,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Mayankjain2624/Dsa/tree/master/0493-reverse-pairs) |
+| [3719-longest-balanced-subarray-i](https://github.com/Mayankjain2624/Dsa/tree/master/3719-longest-balanced-subarray-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Mayankjain2624/Dsa/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Mayankjain2624/Dsa/tree/master/3791-fruits-into-baskets-iii) |
 | [4045-longest-balanced-subarray-i](https://github.com/Mayankjain2624/Dsa/tree/master/4045-longest-balanced-subarray-i) |
