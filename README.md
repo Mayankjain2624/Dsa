@@ -586,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Mayankjain2624/Dsa/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0900-reordered-power-of-2](https://github.com/Mayankjain2624/Dsa/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Mayankjain2624/Dsa/tree/master/0940-fruit-into-baskets) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Mayankjain2624/Dsa/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Mayankjain2624/Dsa/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Mayankjain2624/Dsa/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Mayankjain2624/Dsa/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -673,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/Mayankjain2624/Dsa/tree/master/0820-find-eventual-safe-states) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Mayankjain2624/Dsa/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Mayankjain2624/Dsa/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Mayankjain2624/Dsa/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1008-binary-tree-cameras](https://github.com/Mayankjain2624/Dsa/tree/master/1008-binary-tree-cameras) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Mayankjain2624/Dsa/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/Mayankjain2624/Dsa/tree/master/1073-number-of-enclaves) |
@@ -1061,11 +1063,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0685-redundant-connection-ii](https://github.com/Mayankjain2624/Dsa/tree/master/0685-redundant-connection-ii) |
 | [0785-is-graph-bipartite](https://github.com/Mayankjain2624/Dsa/tree/master/0785-is-graph-bipartite) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Mayankjain2624/Dsa/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## Graph Theory
 |  |
 | ------- |
 | [0685-redundant-connection-ii](https://github.com/Mayankjain2624/Dsa/tree/master/0685-redundant-connection-ii) |
 | [0785-is-graph-bipartite](https://github.com/Mayankjain2624/Dsa/tree/master/0785-is-graph-bipartite) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Mayankjain2624/Dsa/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [2603-collect-coins-in-a-tree](https://github.com/Mayankjain2624/Dsa/tree/master/2603-collect-coins-in-a-tree) |
 ## String Matching
 |  |
