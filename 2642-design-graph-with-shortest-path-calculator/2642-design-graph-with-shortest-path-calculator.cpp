@@ -32,6 +32,8 @@ vector<int>dis;
                 dis.assign(n,INT_MAX);
             return d;
             }
+            if(d>dis[node])
+            continue;
             for(auto &it:adj[node]){
                 int neighbour=it.first;
                 int wt=it.second;
