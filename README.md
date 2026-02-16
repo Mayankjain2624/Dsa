@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-online-stock-span](https://github.com/Mayankjain2624/Dsa/tree/master/0937-online-stock-span) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Mayankjain2624/Dsa/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2169-simple-bank-system](https://github.com/Mayankjain2624/Dsa/tree/master/2169-simple-bank-system) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/Mayankjain2624/Dsa/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## Array
 |  |
 | ------- |
@@ -639,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Mayankjain2624/Dsa/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Mayankjain2624/Dsa/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2479-meeting-rooms-iii](https://github.com/Mayankjain2624/Dsa/tree/master/2479-meeting-rooms-iii) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/Mayankjain2624/Dsa/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/Mayankjain2624/Dsa/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Mayankjain2624/Dsa/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Mayankjain2624/Dsa/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -864,6 +866,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Mayankjain2624/Dsa/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2321-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Mayankjain2624/Dsa/tree/master/2321-minimum-weighted-subgraph-with-the-required-paths) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Mayankjain2624/Dsa/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/Mayankjain2624/Dsa/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/Mayankjain2624/Dsa/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Mayankjain2624/Dsa/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Mayankjain2624/Dsa/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
@@ -1085,6 +1088,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Mayankjain2624/Dsa/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Mayankjain2624/Dsa/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [2603-collect-coins-in-a-tree](https://github.com/Mayankjain2624/Dsa/tree/master/2603-collect-coins-in-a-tree) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/Mayankjain2624/Dsa/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## String Matching
 |  |
 | ------- |
