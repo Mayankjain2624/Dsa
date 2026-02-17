@@ -798,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Mayankjain2624/Dsa/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Mayankjain2624/Dsa/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Mayankjain2624/Dsa/tree/master/0090-subsets-ii) |
+| [0401-binary-watch](https://github.com/Mayankjain2624/Dsa/tree/master/0401-binary-watch) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Mayankjain2624/Dsa/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Mayankjain2624/Dsa/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2151-maximum-good-people-based-on-statements](https://github.com/Mayankjain2624/Dsa/tree/master/2151-maximum-good-people-based-on-statements) |
@@ -818,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Mayankjain2624/Dsa/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Mayankjain2624/Dsa/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Mayankjain2624/Dsa/tree/master/0371-sum-of-two-integers) |
+| [0401-binary-watch](https://github.com/Mayankjain2624/Dsa/tree/master/0401-binary-watch) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Mayankjain2624/Dsa/tree/master/0795-k-th-symbol-in-grammar) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Mayankjain2624/Dsa/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Mayankjain2624/Dsa/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
