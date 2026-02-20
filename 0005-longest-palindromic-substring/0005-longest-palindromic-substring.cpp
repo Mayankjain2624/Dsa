@@ -1,30 +1,44 @@
 class Solution {
 public:
     string longestPalindrome(string s) {
-        int n = s.size();
-        int maxi = 0;
-        pair<int, int> ans;
+        int n = s.length();
+        int maxLen = 0;
+        int maxStart = 0;
         for (int i = 0; i < n; i++) {
-            int mid = i;
-            int l = i;
-            int r = i;
-            while (l >= 0 && r < n && s[l] == s[r]) {
-                if (r - l + 1 > maxi) {
-                    maxi = r - l + 1;
-                    ans = {l, r};
-                }
-                l--, r++;
+            int l = i - 1;
+            int r = i + 1;
+            int currLen = 1;
+            while (l >= 0 && r < n) {
+                if (s[l] == s[r]) {
+                    currLen += 2;
+                    l--;
+                    r++;
+                } else
+                    break;
             }
-            l = i, r = i + 1;
-            while (l >= 0 && r < n && s[l] == s[r]) {
-                if (r - l + 1 > maxi) {
-                    maxi = r - l + 1;
-                    ans = {l, r};
+            if (currLen > maxLen) {
+                maxLen = currLen;
+                maxStart = l + 1;
+            }
+            if (i + 1 < n && s[i] == s[i + 1]) {
+                l = i - 1;
+                r = i + 2;
+                currLen=2;
+                while (l >= 0 && r < n) {
+                    if (s[l] == s[r]) {
+                        currLen += 2;
+                        l--;
+                        r++;
+                    } else
+                        break;
                 }
-                l--, r++;
+                if (currLen > maxLen) {
+                    maxLen = currLen;
+                    maxStart = l + 1;
+                }
             }
         }
-        string as = s.substr(ans.first, ans.second - ans.first + 1);
-        return as;
+        string ans = s.substr(maxStart, maxLen);
+        return ans;
     }
 };
