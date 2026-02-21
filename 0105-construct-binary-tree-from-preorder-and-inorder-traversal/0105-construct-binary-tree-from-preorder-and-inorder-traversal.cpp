@@ -21,13 +21,13 @@ public:
         return root;
     }
     TreeNode* buildTree(vector<int>& preorder,int ps,int pe, vector<int>& inorder,int is,int ie,map<int,int>&mp){
-       if (is > ie || ps > pe)
-    return nullptr;
-        TreeNode* root=new TreeNode(preorder[ps]);
-        int inroot=mp[root->val];
-        int numsleft=inroot-is;
-        root->left=buildTree(preorder,ps+1,ps+numsleft,inorder,is,inroot-1,mp);
-        root->right=buildTree(preorder,ps+numsleft+1,pe,inorder,inroot+1,ie,mp);
-        return root;
+        if(is>ie || ps>pe)
+        return nullptr;
+        TreeNode* node=new TreeNode(preorder[ps]);
+        int ir=mp[preorder[ps]];
+        int x=ir-is;
+        node->left=buildTree(preorder,ps+1,ps+x,inorder,is,ir-1,mp);
+        node->right=buildTree(preorder,ps+x+1,pe,inorder,ir+1,ie,mp);
+        return node;
     }
 };
