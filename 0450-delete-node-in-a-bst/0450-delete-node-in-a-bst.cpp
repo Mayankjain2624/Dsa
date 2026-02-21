@@ -6,56 +6,55 @@
  *     TreeNode *right;
  *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
  *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left),
+ * right(right) {}
  * };
  */
-class Solution
-{
+class Solution {
 public:
-    TreeNode *deleteNode(TreeNode *root, int key)
-    {
-        if (root == nullptr)
-            return nullptr;
-        if (root->val == key)
-            return helper(root);
-        TreeNode *og = root;
-        while (root != nullptr)
+    TreeNode* deleteNode(TreeNode* root, int key) {
+        TreeNode* og=root;
+        if(root==nullptr)
+        return root;
+        if(root->val==key)
         {
-            if (root->val < key)
-            {
-                if (root->right != nullptr && root->right->val == key)
-                {
-                    root->right = helper(root->right);
+            TreeNode* rc=root;
+            // delete rc;
+            return helper(root);
+        }
+        while(root!=nullptr){
+            if(root->val<key){
+                if(root->right!=nullptr && root->right->val==key){
+                    root->right=helper(root->right);
                     break;
                 }
-                else
-                    root = root->right;
+                root=root->right;
             }
-            else
+            else 
             {
-                if (root->left != nullptr && root->left->val == key)
-                {
-                    root->left = helper(root->left);
+                 if(root->left!=nullptr && root->left->val==key){
+                    root->left=helper(root->left);
                     break;
-                }
-                else
-                    root = root->left;
+                 }
+                 root=root->left;
             }
         }
         return og;
     }
-    TreeNode *helper(TreeNode *root)
-    {
-        if (root->left == nullptr)
-            return root->right;
-        if (root->right == nullptr)
-            return root->left;
-        TreeNode *lastright = root->left;
-        while(lastright->right!=nullptr)
-        {
-        lastright=lastright->right;
-        }
-        lastright->right = root->right;
-        return root->left;
+    TreeNode* helper(TreeNode* root) {
+         if(root->left==nullptr && root->right==nullptr)
+         return nullptr;
+         if(root->left==nullptr)
+         return root->right;
+         if(root->right==nullptr)
+         return root->left;
+         TreeNode* leftchild=root->left;
+         TreeNode* rml=root->left;
+         while(rml->right!=nullptr){
+            rml=rml->right;
+         }
+         rml->right=root->right;
+         delete root;
+         return leftchild;
     }
 };
