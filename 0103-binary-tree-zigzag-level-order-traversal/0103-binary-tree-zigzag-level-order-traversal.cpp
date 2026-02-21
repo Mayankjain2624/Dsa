@@ -19,9 +19,11 @@ public:
         q.push(root);
         if (root == nullptr)
             return ans;
-        vector<int> temp;
         while (!q.empty()) {
             int n = q.size();
+        vector<int> temp(n);
+        int i=n-1;
+        int oi=0;
             while (n--) {
                 TreeNode* node = q.front();
                 q.pop();
@@ -29,13 +31,13 @@ public:
                     q.push(node->left);
                 if (node->right != nullptr)
                     q.push(node->right);
-                temp.push_back(node->val);
+                    if(k&1)
+                    temp[i--]=node->val;
+                    else
+                    temp[oi++]=node->val;
             }
-            if (k & 1)
-                reverse(temp.begin(), temp.end());
             ans.push_back(temp);
             k++;
-            temp.clear();
         }
         return ans;
     }
