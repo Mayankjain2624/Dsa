@@ -30,6 +30,7 @@ class Solution {
       else if(node->right)
       collectLeft(node->right,res);
   }
+
   void collectLeaf(Node* node,vector<int>&res){
       if(node==nullptr)
       return;
@@ -38,6 +39,7 @@ class Solution {
       collectLeaf(node->left,res);
       collectLeaf(node->right,res);
   }
+
   void collectRight(Node* node,vector<int>&res){
       if(node==nullptr || isLeaf(node))
       return;
@@ -46,8 +48,8 @@ class Solution {
       else if(node->left)
       collectRight(node->left,res);
       res.push_back(node->data);
-      
   }
+
     vector<int> boundaryTraversal(Node *root) {
         // code here
         vector<int>res;
@@ -59,6 +61,5 @@ class Solution {
         collectLeaf(root,res);
         collectRight(root->right,res);
         return res;
-        
     }
 };
