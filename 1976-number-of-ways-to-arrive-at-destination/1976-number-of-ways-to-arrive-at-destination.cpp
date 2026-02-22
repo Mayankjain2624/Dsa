@@ -18,6 +18,8 @@ public:
             long long d=pq.top().first;
             long long node=pq.top().second;
             pq.pop();
+            if(d>time[node])
+            continue;
             for(auto &it:adj[node]){
                 long long nei=it.first;
                 long long cost=it.second;
