@@ -4,13 +4,13 @@ public:
         int n=mat.size();
         int m=mat[0].size();
         queue<pair<pair<int,int>,int>>q;
-        vector<vector<int>>vis(n,vector<int>(m,0));
+        // vector<vector<int>>vis(n,vector<int>(m,0));
         vector<vector<int>>ans(n,vector<int>(m,0));
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
                 if(mat[i][j]==0)
                 {
-                    vis[i][j]=1;
+                    // vis[i][j]=1;
                 q.push({{i,j},0});
                 }
             }
@@ -28,8 +28,8 @@ public:
                         int nr=r+di;
                         int nc=c+dj;
                         if(nr>=0 &&nr<n && nc>=0 &&nc<m){
-                            if(!vis[nr][nc]){
-                                vis[nr][nc]=1;
+                            if(mat[nr][nc]==1){
+                                mat[nr][nc]=0;
                                 q.push({{nr,nc},dis+1});
                             }
                         }
