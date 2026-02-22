@@ -547,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Mayankjain2624/Dsa/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Mayankjain2624/Dsa/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Mayankjain2624/Dsa/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Mayankjain2624/Dsa/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Mayankjain2624/Dsa/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Mayankjain2624/Dsa/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Mayankjain2624/Dsa/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -888,6 +889,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0918-reachable-nodes-in-subdivided-graph](https://github.com/Mayankjain2624/Dsa/tree/master/0918-reachable-nodes-in-subdivided-graph) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Mayankjain2624/Dsa/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Mayankjain2624/Dsa/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Mayankjain2624/Dsa/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2321-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Mayankjain2624/Dsa/tree/master/2321-minimum-weighted-subgraph-with-the-required-paths) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Mayankjain2624/Dsa/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -1078,6 +1080,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Mayankjain2624/Dsa/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/Mayankjain2624/Dsa/tree/master/0802-find-eventual-safe-states) |
 | [0820-find-eventual-safe-states](https://github.com/Mayankjain2624/Dsa/tree/master/0820-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Mayankjain2624/Dsa/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2603-collect-coins-in-a-tree](https://github.com/Mayankjain2624/Dsa/tree/master/2603-collect-coins-in-a-tree) |
 ## Doubly-Linked List
 |  |
@@ -1127,6 +1130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Mayankjain2624/Dsa/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Mayankjain2624/Dsa/tree/master/0802-find-eventual-safe-states) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Mayankjain2624/Dsa/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Mayankjain2624/Dsa/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2603-collect-coins-in-a-tree](https://github.com/Mayankjain2624/Dsa/tree/master/2603-collect-coins-in-a-tree) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/Mayankjain2624/Dsa/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## String Matching
