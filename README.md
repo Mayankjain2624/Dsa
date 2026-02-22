@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Mayankjain2624/Dsa/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/Mayankjain2624/Dsa/tree/master/1073-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mayankjain2624/Dsa/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Mayankjain2624/Dsa/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Mayankjain2624/Dsa/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Mayankjain2624/Dsa/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -708,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Mayankjain2624/Dsa/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/Mayankjain2624/Dsa/tree/master/1073-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mayankjain2624/Dsa/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Mayankjain2624/Dsa/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Mayankjain2624/Dsa/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Mayankjain2624/Dsa/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Mayankjain2624/Dsa/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -1123,6 +1125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Mayankjain2624/Dsa/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Mayankjain2624/Dsa/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/Mayankjain2624/Dsa/tree/master/1020-number-of-enclaves) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Mayankjain2624/Dsa/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Graph Theory
 |  |
 | ------- |
@@ -1130,6 +1133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Mayankjain2624/Dsa/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Mayankjain2624/Dsa/tree/master/0802-find-eventual-safe-states) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Mayankjain2624/Dsa/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Mayankjain2624/Dsa/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Mayankjain2624/Dsa/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2603-collect-coins-in-a-tree](https://github.com/Mayankjain2624/Dsa/tree/master/2603-collect-coins-in-a-tree) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/Mayankjain2624/Dsa/tree/master/2642-design-graph-with-shortest-path-calculator) |
