@@ -23,7 +23,8 @@ public:
     //             int n1 = j1 + d1;
     //             int n2 = j2 + d2;
     //             maxCandy = max(maxCandy,
-    //                            current + solve(grid, i + 1, n1, n2, n, m, dp));
+    //                            current + solve(grid, i + 1, n1, n2, n, m,
+    //                            dp));
     //         }
     //     }
     //     return dp[i][j1][j2] = maxCandy;
@@ -31,10 +32,12 @@ public:
     int cherryPickup(vector<vector<int>>& grid) {
         int n = grid.size();
         int m = grid[0].size();
-        vector<vector<vector<int>>> dp(
-            n + 1, vector<vector<int>>(m, vector<int>(m, 0)));
+        // vector<vector<vector<int>>> dp(
+        //     n + 1, vector<vector<int>>(m, vector<int>(m, 0)));
         // return solve(grid, 0, 0, m - 1, n, m, dp);
+        vector<vector<int>> prev(m, vector<int>(m, 0));
         for (int i = n - 1; i >= 0; i--) {
+            vector<vector<int>> curr(m, vector<int>(m, 0));
             for (int j1 = 0; j1 < m; j1++) {
                 for (int j2 = 0; j2 < m; j2++) {
                     int maxCandy = 0;
@@ -48,14 +51,16 @@ public:
                             int n1 = j1 + d1;
                             int n2 = j2 + d2;
                             if (n1 < 0 || n2 < 0 || n1 >= m || n2 >= m)
-                            continue;
-                            maxCandy = max(maxCandy, current + dp[i + 1][n1][n2]);
+                                continue;
+                            maxCandy =
+                                max(maxCandy, current + prev[n1][n2]);
                         }
                     }
-                    dp[i][j1][j2]=maxCandy;
+                    curr[j1][j2] = maxCandy;
                 }
             }
+            prev=curr;
         }
-        return dp[0][0][m-1];
+        return prev[0][m - 1];
     }
 };
