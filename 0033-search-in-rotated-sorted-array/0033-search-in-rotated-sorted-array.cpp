@@ -6,7 +6,7 @@ public:
         int n=nums.size();
         while (l <= r) {
             int mid = (l + r) / 2;
-            cout<<mid<<endl;
+            // cout<<mid<<endl;
             if(nums[mid]==target)
             return mid;
             if(nums[mid]<nums[r]){
