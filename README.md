@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Mayankjain2624/Dsa/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Mayankjain2624/Dsa/tree/master/0173-binary-search-tree-iterator) |
+| [0295-find-median-from-data-stream](https://github.com/Mayankjain2624/Dsa/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Mayankjain2624/Dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Mayankjain2624/Dsa/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/Mayankjain2624/Dsa/tree/master/0937-online-stock-span) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Mayankjain2624/Dsa/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Mayankjain2624/Dsa/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Mayankjain2624/Dsa/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/Mayankjain2624/Dsa/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/Mayankjain2624/Dsa/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Mayankjain2624/Leetcode-Daily/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mayankjain2624/Dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -657,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Mayankjain2624/Dsa/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/Mayankjain2624/Dsa/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/Mayankjain2624/Dsa/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Mayankjain2624/Dsa/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/Mayankjain2624/Dsa/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Mayankjain2624/Dsa/tree/master/0451-sort-characters-by-frequency) |
@@ -810,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Mayankjain2624/Dsa/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Mayankjain2624/Dsa/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Mayankjain2624/Dsa/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/Mayankjain2624/Dsa/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Mayankjain2624/Dsa/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Mayankjain2624/Dsa/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/Mayankjain2624/Dsa/tree/master/0435-non-overlapping-intervals) |
@@ -1128,6 +1132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Mayankjain2624/Dsa/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Mayankjain2624/Dsa/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/Mayankjain2624/Dsa/tree/master/0937-online-stock-span) |
 ## Geometry
