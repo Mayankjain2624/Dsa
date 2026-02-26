@@ -882,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Mayankjain2624/Dsa/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2151-maximum-good-people-based-on-statements](https://github.com/Mayankjain2624/Dsa/tree/master/2151-maximum-good-people-based-on-statements) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mayankjain2624/Dsa/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Mayankjain2624/Dsa/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2529-range-product-queries-of-powers](https://github.com/Mayankjain2624/Dsa/tree/master/2529-range-product-queries-of-powers) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Mayankjain2624/Dsa/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mayankjain2624/Dsa/tree/master/3600-find-the-k-th-character-in-string-game-i) |
